@@ -1,0 +1,191 @@
+{
+  "prelims": {
+    "label": "IBPS Clerk Prelims",
+    "totalMarks": 100,
+    "durationMinutes": 60,
+    "subjects": [
+      {
+        "name": "Reasoning Ability",
+        "chapters": [
+          "Seating Arrangements",
+          "Puzzles",
+          "Inequalities",
+          "Syllogism",
+          "Input-Output",
+          "Data Sufficiency",
+          "Blood Relations",
+          "Order and Ranking",
+          "Alphanumeric Series",
+          "Distance and Direction",
+          "Verbal Reasoning",
+          "Coding-Decoding",
+          "Logical Reasoning",
+          "Classification",
+          "Odd One Out",
+          "Series Completion"
+        ]
+      },
+      {
+        "name": "Numerical Ability",
+        "chapters": [
+          "Number Series",
+          "Data Interpretation",
+          "Simplification / Approximation",
+          "Quadratic Equation",
+          "Data Sufficiency",
+          "Mensuration",
+          "Average",
+          "Profit and Loss",
+          "Ratio and Proportion",
+          "Work, Time, and Energy",
+          "Time and Distance",
+          "Probability",
+          "Relations",
+          "Simple and Compound Interest",
+          "Permutation and Combination"
+        ]
+      },
+      {
+        "name": "English Language",
+        "chapters": [
+          "Cloze Test",
+          "Reading Comprehension",
+          "Spotting Errors",
+          "Sentence Improvement",
+          "Sentence Correction",
+          "Para Jumbles",
+          "Fill in the Blanks",
+          "Para / Sentence Completion",
+          "Vocabulary",
+          "Synonyms and Antonyms",
+          "One Word Substitution",
+          "Idioms and Phrases",
+          "Phrase Replacement",
+          "Error Detection",
+          "Sentence Rearrangement",
+          "Passage Completion",
+          "Grammar",
+          "Spelling Correction",
+          "Word Usage",
+          "Word Swap",
+          "Tenses"
+        ]
+      }
+    ]
+  },
+  "mains": {
+    "label": "IBPS Clerk Mains",
+    "totalMarks": 200,
+    "durationMinutes": 125,
+    "subjects": [
+      {
+        "name": "Reasoning & Computer Aptitude",
+        "chapters": [
+          "Seating Arrangements",
+          "Puzzles",
+          "Inequalities",
+          "Syllogism",
+          "Input-Output",
+          "Data Sufficiency",
+          "Blood Relations",
+          "Order and Ranking",
+          "Alphanumeric Series",
+          "Distance",
+          "Direction Sense",
+          "Verbal Reasoning",
+          "Classification",
+          "Simplification",
+          "Coded Inequalities",
+          "Machine Input-Output",
+          "Statements and Arguments",
+          "Assertion and Reasoning",
+          "Passage and Conclusions",
+          "Decision Making",
+          "Basics of Hardware and Software",
+          "Windows Operating System Basics",
+          "Internet Terms and Services",
+          "Basic Functionalities of MS Office (Word, Excel, PowerPoint)",
+          "History of Computers",
+          "Networking and Communication",
+          "Database Basics",
+          "Basics of Hacking",
+          "Security Tools and Viruses"
+        ]
+      },
+      {
+        "name": "English Language",
+        "chapters": [
+          "Cloze Test",
+          "Reading Comprehension",
+          "Spotting Errors",
+          "Sentence Improvement",
+          "Sentence Correction",
+          "Para Jumbles",
+          "Fill in the Blanks",
+          "Para / Sentence Completion",
+          "Vocabulary",
+          "Word Formation",
+          "Misspelt Words",
+          "Phrases and Idioms",
+          "Passage Completion",
+          "Synonyms and Antonyms",
+          "Active / Passive Voice"
+        ]
+      },
+      {
+        "name": "Quantitative Aptitude",
+        "chapters": [
+          "Number Series",
+          "Data Interpretation",
+          "Simplification / Approximation",
+          "Quadratic Equation",
+          "Data Sufficiency",
+          "Mensuration",
+          "Average",
+          "Profit and Loss",
+          "Ratio and Proportion",
+          "Work, Time, and Energy",
+          "Time and Distance",
+          "Probability",
+          "Relations",
+          "Simple and Compound Interest",
+          "Permutation and Combination"
+        ]
+      },
+      {
+        "name": "General & Financial Awareness",
+        "chapters": [
+          "Current Affairs",
+          "Banking Awareness",
+          "GK Updates",
+          "Currencies",
+          "Important Places",
+          "Books and Authors",
+          "Awards",
+          "Headquarters",
+          "Prime Minister Schemes",
+          "Important Days",
+          "National & International Current Affairs",
+          "Central Government Schemes",
+          "Banking and Financial Awareness",
+          "Recent RBI Circulars-Based Questions",
+          "Business & Economy Related News",
+          "Important Appointments",
+          "Union Budget"
+        ]
+      }
+    ]
+  },
+  "real_prelims": {
+    "label": "Real Prelims (Previous Year Papers)",
+    "totalMarks": 100,
+    "durationMinutes": 60,
+    "subjects": []
+  },
+  "real_mains": {
+    "label": "Real Mains (Previous Year Papers)",
+    "totalMarks": 200,
+    "durationMinutes": 125,
+    "subjects": []
+  }
+}
