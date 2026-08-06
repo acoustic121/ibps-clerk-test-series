@@ -12772,7 +12772,7 @@
       "prelims",
       "mains"
     ],
-    "passage": "Out of 6000 students from a college X, 20% of total\nstudents have majored in physics only, 12% have majored\nin chemistry only. 20% have majored in both chemistry &\nmathematics only. 5% of total students have majored in all\nthree subjects together while 45% students have majored\nin only two subjects. In chemistry, 45% students have\nmajored.",
+    "passage": "Study the following information\ncarefully and answer the questions given below.\nOut of 6000 students from a college X, 20% of total\nstudents have majored in physics only, 12% have majored\nin chemistry only. 20% have majored in both chemistry &\nmathematics only. 5% of total students have majored in all\nthree subjects together while 45% students have majored\nin only two subjects. In chemistry, 45% students have\nmajored.",
     "questionText": "How many students have majored in only one subject?",
     "options": {
       "a": "2400",
@@ -14311,5 +14311,2530 @@
     "hasImage": false,
     "imageFile": null,
     "source": "Ace Quant - Ch 16 - Data Sufficiency (Q34)"
+  },
+  {
+    "id": "quant-simpli-002-0001-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": "What approximate value should come in\nthe place of question mark in following question.",
+    "questionText": "(89.99% of 7000.02 + (24.01)2) ÷?= 1719.01",
+    "options": {
+      "a": "4",
+      "b": "3",
+      "c": "2",
+      "d": "6",
+      "e": "5"
+    },
+    "correctOption": "a",
+    "solutionText": "≈( 100 × 7000 + 576) ÷?= 1719 ≈? = 1719  ≈ ?= 4",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q1)"
+  },
+  {
+    "id": "quant-simpli-002-0002-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": "What approximate value should come in\nthe place of question mark in following question.",
+    "questionText": "32.01 × 4.99 + ?  = 64.03 % of 349. 97",
+    "options": {
+      "a": "48",
+      "b": "96",
+      "c": "72",
+      "d": "64",
+      "e": "32"
+    },
+    "correctOption": "d",
+    "solutionText": "160 + ? = 100 × 350 ? = 224 −  160 ? = 64",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q2)"
+  },
+  {
+    "id": "quant-simpli-002-0003-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": "What approximate value should come in\nthe place of question mark in following question.",
+    "questionText": "312.07 ? + (12.99)2 = 20.01 % of 909.99",
+    "options": {
+      "a": "None of these (b) 48",
+      "c": "6",
+      "d": "12",
+      "e": "24s"
+    },
+    "correctOption": "e",
+    "solutionText": "?   + 169 = 100 × 910 ?  = 182 − 169 ?  = 13 ? = 24",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q3)"
+  },
+  {
+    "id": "quant-simpli-002-0004-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": "What approximate value should come in\nthe place of question mark in following question.",
+    "questionText": "199.99 + 12.01 % of 499.99 – √63.99 = ?2",
+    "options": {
+      "a": "12",
+      "b": "16",
+      "c": "14",
+      "d": "18",
+      "e": "8"
+    },
+    "correctOption": "b",
+    "solutionText": "200 + 100 × 500 − 4 = ?2 256 = ?2 ? = 16",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q4)"
+  },
+  {
+    "id": "quant-simpli-002-0005-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": "What approximate value should come in\nthe place of question mark in following question.",
+    "questionText": "84.01 ?  + 26.03 % of 799.97 +  √16.03 = (5.99)3",
+    "options": {
+      "a": "42",
+      "b": "21",
+      "c": "12",
+      "d": "14",
+      "e": "4"
+    },
+    "correctOption": "d",
+    "solutionText": "?   + 100 × 800 + 2 = 216 ?   = 216 – 210 ? = 14",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q5)"
+  },
+  {
+    "id": "quant-simpli-002-0006-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": "Find the value of (?) in following\napproximation questions:",
+    "questionText": "2? = 32.01 ÷ 128.01 × 1023.99 ÷ 7.99",
+    "options": {
+      "a": "7",
+      "b": "3",
+      "c": "4",
+      "d": "5",
+      "e": "8"
+    },
+    "correctOption": "d",
+    "solutionText": "2? = 32.01 ÷ 128.01 × 1023.99 ÷ 7.99 2? ≈ 128 × 2? ≈32 2? ≈25 ? ≈5",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q6)"
+  },
+  {
+    "id": "quant-simpli-002-0007-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": "Find the value of (?) in following\napproximation questions:",
+    "questionText": "339.99 ? = √143.99 + √64.01",
+    "options": {
+      "a": "17",
+      "b": "20",
+      "c": "10",
+      "d": "34",
+      "e": "40"
+    },
+    "correctOption": "a",
+    "solutionText": "339.99 ? = √143.99 + √64.01 ? ≈√144 + √64 ? ≈12 + 8 20 ≈? 17 ≈?",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q7)"
+  },
+  {
+    "id": "quant-simpli-002-0008-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": "Find the value of (?) in following\napproximation questions:",
+    "questionText": "34.02% of 550.09 ÷ ? = 297.07 ÷ √728.95",
+    "options": {
+      "a": "14",
+      "b": "21",
+      "c": "8",
+      "d": "27",
+      "e": "17"
+    },
+    "correctOption": "e",
+    "solutionText": "34.02% of 550.09 ÷ ? = 297.07 ÷ √728.95 34×550 ÷ ?≈297 ÷ √729 ? ≈ ? ≈ 17",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q8)"
+  },
+  {
+    "id": "quant-simpli-002-0009-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": "Find the value of (?) in following\napproximation questions:",
+    "questionText": "(? ÷ 9.97) × 12.08 = 20.12% of 1319.97",
+    "options": {
+      "a": "220",
+      "b": "240",
+      "c": "260",
+      "d": "280",
+      "e": "200"
+    },
+    "correctOption": "a",
+    "solutionText": "(? ÷ 9.97) × 12.08 ≈20.12% of 1319.97 (? ÷ 10) × 12 ≈ 20×1320 ? ≈ 12 × 10 ≈220",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q9)"
+  },
+  {
+    "id": "quant-simpli-002-0010-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": "Find the value of (?) in following\napproximation questions:",
+    "questionText": "? % 𝑜𝑓 179.99 = √(24.02)2 + (17.98)2 + 60.01% 𝑜𝑓 659.98",
+    "options": {
+      "a": "80",
+      "b": "60",
+      "c": "40",
+      "d": "20",
+      "e": "10"
+    },
+    "correctOption": "d",
+    "solutionText": "? % 𝑜𝑓 179.99 = √(24.02)2 + (17.98)2 + 60.01% 𝑜𝑓 659.98 ? % 𝑜𝑓 180 ≈√(24)2 + (18)2 + 60% 𝑜𝑓 660 ? 100 × 180 ≈√576 + 324 + 396 ? 100 × 180 ≈√1296 ? ≈ 180 × 100  ⇒ ?≈20",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q10)"
+  },
+  {
+    "id": "quant-simpli-002-0011-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": "What approximate value should come\nin place of the question mark (?) in the following\nquestions?\nNote: (You are not expected to calculate the exact value.)",
+    "questionText": "24.001 × 14.999 × 9.998 = ?",
+    "options": {
+      "a": "4200",
+      "b": "3000",
+      "c": "3600",
+      "d": "4000",
+      "e": "2500"
+    },
+    "correctOption": "c",
+    "solutionText": "24 × 15 × 10 ≈3600",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q11)"
+  },
+  {
+    "id": "quant-simpli-002-0012-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": "What approximate value should come\nin place of the question mark (?) in the following\nquestions?\nNote: (You are not expected to calculate the exact value.)",
+    "questionText": "14.003√?+ 53.0345√? = 26.999 × (? )",
+    "options": {
+      "a": "801",
+      "b": "720",
+      "c": "729",
+      "d": "721",
+      "e": "744"
+    },
+    "correctOption": "c",
+    "solutionText": "14√?+ 53√?= 27 ×? 67√?= 27 ×? √? = 27 ? = 729",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q12)"
+  },
+  {
+    "id": "quant-simpli-002-0013-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": "What approximate value should come\nin place of the question mark (?) in the following\nquestions?\nNote: (You are not expected to calculate the exact value.)",
+    "questionText": "10.11×36.93+√48.875 × 19.99 = 17.231 × √?",
+    "options": {
+      "a": "25",
+      "b": "144",
+      "c": "225",
+      "d": "625",
+      "e": "900"
+    },
+    "correctOption": "e",
+    "solutionText": "10 × 37 + 7 × 20 = 17 × √? √? = 30 ? = 900",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q13)"
+  },
+  {
+    "id": "quant-simpli-002-0014-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": "What approximate value should come\nin place of the question mark (?) in the following\nquestions?\nNote: (You are not expected to calculate the exact value.)",
+    "questionText": "1898.88 ÷ 189.921 + 9.99 + (? )2 = 83.89",
+    "options": {
+      "a": "3",
+      "b": "4 (c) 5",
+      "d": "8",
+      "e": "7"
+    },
+    "correctOption": "d",
+    "solutionText": "≈1900 ÷ 190 + 10 +?2 = 84 Or, ?2 = 84 −10 −10 𝑜𝑟, ?= 8 40 × 8 −250 =?−63 × 8",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q14)"
+  },
+  {
+    "id": "quant-simpli-002-0015-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": "What approximate value should come\nin place of the question mark (?) in the following\nquestions?\nNote: (You are not expected to calculate the exact value.)",
+    "questionText": "39.7% 𝑜𝑓 801 −250.17 = ? −63% 𝑜𝑓 801",
+    "options": {
+      "a": "800",
+      "b": "500",
+      "c": "574",
+      "d": "760",
+      "e": "550"
+    },
+    "correctOption": "c",
+    "solutionText": "≈ ?= 574 @cetexamgroup",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q15)"
+  },
+  {
+    "id": "quant-simpli-002-0016-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": "What approximate value should come\nin place of the question mark (?) in the following\nquestions? (You are not expected to calculate the exact\nvalue.)",
+    "questionText": "57% of 394-2.5% of 996=?",
+    "options": {
+      "a": "215",
+      "b": "175 (c) 200",
+      "d": "180",
+      "e": "227"
+    },
+    "correctOption": "a",
+    "solutionText": "? = 394×57 − 996×2.5 = 400×57 − 1000×2.5 = 228−25 = 203 ∴ Required answer = 200",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q16)"
+  },
+  {
+    "id": "quant-simpli-002-0017-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": "What approximate value should come\nin place of the question mark (?) in the following\nquestions? (You are not expected to calculate the exact\nvalue.)",
+    "questionText": "96.996 × 9.869 + 0.96 =?",
+    "options": {
+      "a": "860",
+      "b": "870 (c) 1080",
+      "d": "965",
+      "e": "1100"
+    },
+    "correctOption": "d",
+    "solutionText": "? = 97× 10 + 1 = 971 ∴ Required answer = 965",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q17)"
+  },
+  {
+    "id": "quant-simpli-002-0018-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": "What approximate value should come\nin place of the question mark (?) in the following\nquestions? (You are not expected to calculate the exact\nvalue.)",
+    "questionText": "5 × 1228 × 7 =?",
+    "options": {
+      "a": "7",
+      "b": "12",
+      "c": "9",
+      "d": "4",
+      "e": "15"
+    },
+    "correctOption": "d",
+    "solutionText": "? = 5 × 1228 × 7 = 4",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q18)"
+  },
+  {
+    "id": "quant-simpli-002-0019-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": "What approximate value should come\nin place of the question mark (?) in the following\nquestions? (You are not expected to calculate the exact\nvalue.)",
+    "questionText": "(√329 × 25) ÷ 30 =?",
+    "options": {
+      "a": "12",
+      "b": "15",
+      "c": "24",
+      "d": "21",
+      "e": "9"
+    },
+    "correctOption": "b",
+    "solutionText": "? = √339×25 =15",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q19)"
+  },
+  {
+    "id": "quant-simpli-002-0020-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": "What approximate value should come\nin place of the question mark (?) in the following\nquestions? (You are not expected to calculate the exact\nvalue.)",
+    "questionText": "(638 + 9709 −216) ÷ 26 =?",
+    "options": {
+      "a": "275",
+      "b": "345 (c) 440",
+      "d": "300",
+      "e": "390"
+    },
+    "correctOption": "e",
+    "solutionText": "? = 638+9709−216 = 390",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q20)"
+  },
+  {
+    "id": "quant-simpli-002-0021-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": "What will come in the place of (?)\nmark in following question.",
+    "questionText": "280 ÷ 4 ÷ 2 = 170 – ?",
+    "options": {
+      "a": "105",
+      "b": "115",
+      "c": "125",
+      "d": "135",
+      "e": "145"
+    },
+    "correctOption": "d",
+    "solutionText": "? = 170 – 35 ? = 135",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q21)"
+  },
+  {
+    "id": "quant-simpli-002-0022-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": "What will come in the place of (?)\nmark in following question.",
+    "questionText": "(√144  + √169 ) × 3 = ?",
+    "options": {
+      "a": "375",
+      "b": "325",
+      "c": "350",
+      "d": "275",
+      "e": "475"
+    },
+    "correctOption": "a",
+    "solutionText": "(12 + 13) × 3 = ? ? = 375",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q22)"
+  },
+  {
+    "id": "quant-simpli-002-0023-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": "What will come in the place of (?)\nmark in following question.",
+    "questionText": "(12 × 5 ÷ 4) × 8 = ?",
+    "options": {
+      "a": "100",
+      "b": "140",
+      "c": "120",
+      "d": "80",
+      "e": "90"
+    },
+    "correctOption": "c",
+    "solutionText": "? = (3 × 5) × 8 ? = 120",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q23)"
+  },
+  {
+    "id": "quant-simpli-002-0024-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": "What will come in the place of (?)\nmark in following question.",
+    "questionText": "(120% of 750) ÷ ?= 25",
+    "options": {
+      "a": "30",
+      "b": "36",
+      "c": "24",
+      "d": "18",
+      "e": "48"
+    },
+    "correctOption": "b",
+    "solutionText": "( 100 × 750 ) ÷? = 25 ? = 900 ÷ 25 ? = 36",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q24)"
+  },
+  {
+    "id": "quant-simpli-002-0025-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": "What will come in the place of (?)\nmark in following question.",
+    "questionText": "8 2 −4 6 =? −3",
+    "options": {
+      "a": "3",
+      "b": "3",
+      "c": "2",
+      "d": "7",
+      "e": "5 @cetexamgroup"
+    },
+    "correctOption": "d",
+    "solutionText": "? = (8 – 4 + 3)+ 6−10+7 ? = 7",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q25)"
+  },
+  {
+    "id": "quant-simpli-002-0026-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "275 + 64% of 750 = 750 + ?",
+    "options": {
+      "a": "25",
+      "b": "8",
+      "c": "10",
+      "d": "15",
+      "e": "5"
+    },
+    "correctOption": "e",
+    "solutionText": "275 + 100  × 750 = 750 + ? 275 + 480 = 750 + ? ? = 5",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q26)"
+  },
+  {
+    "id": "quant-simpli-002-0027-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "√225 + √81 + 122 =?",
+    "options": {
+      "a": "168",
+      "b": "164",
+      "c": "162",
+      "d": "172",
+      "e": "182"
+    },
+    "correctOption": "a",
+    "solutionText": "? = 15 + 9 + 144 ? = 168",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q27)"
+  },
+  {
+    "id": "quant-simpli-002-0028-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "? = √324 + 3.25",
+    "options": {
+      "a": "12",
+      "b": "48",
+      "c": "24",
+      "d": "6",
+      "e": "18"
+    },
+    "correctOption": "c",
+    "solutionText": "? = 18 + 3.25 ? = 24",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q28)"
+  },
+  {
+    "id": "quant-simpli-002-0029-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "12.5% of (120 + ?) = 45",
+    "options": {
+      "a": "160",
+      "b": "180",
+      "c": "360",
+      "d": "240",
+      "e": "120"
+    },
+    "correctOption": "d",
+    "solutionText": "12.5 100 × (120+? ) = 45 120 + ? = 360 ? = 240",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q29)"
+  },
+  {
+    "id": "quant-simpli-002-0030-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "572 ÷ 13 × 12 – 16 = (8)?",
+    "options": {
+      "a": "4",
+      "b": "2",
+      "c": "3",
+      "d": "5",
+      "e": "None of these"
+    },
+    "correctOption": "c",
+    "solutionText": "44 × 12 −16 = (8)? 528 – 16 = (8)? ? = 3",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q30)"
+  },
+  {
+    "id": "quant-simpli-002-0031-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": "What will come in the place of\nquestion mark in following questions.",
+    "questionText": "(? ÷ 5 ÷ 7) × 14 + 112 = 420",
+    "options": {
+      "a": "710",
+      "b": "720",
+      "c": "660",
+      "d": "770",
+      "e": "750"
+    },
+    "correctOption": "d",
+    "solutionText": "(? ÷ 5 ÷ 7) × 14 = 308 ? = 22 × 35 ? = 770",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q31)"
+  },
+  {
+    "id": "quant-simpli-002-0032-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": "What will come in the place of\nquestion mark in following questions.",
+    "questionText": "(?)(4 ×16 ÷32+1) + 122 = 360",
+    "options": {
+      "a": "4",
+      "b": "6",
+      "c": "8",
+      "d": "2",
+      "e": "3"
+    },
+    "correctOption": "b",
+    "solutionText": "?3 + 144 = 360 ?3 = 216 ? = 6",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q32)"
+  },
+  {
+    "id": "quant-simpli-002-0033-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": "What will come in the place of\nquestion mark in following questions.",
+    "questionText": "50% of 128 + √16 2 × 4 =?+10",
+    "options": {
+      "a": "64",
+      "b": "62",
+      "c": "60",
+      "d": "56",
+      "e": "82"
+    },
+    "correctOption": "b",
+    "solutionText": "2 + 2 × 4 =?+10 64 + 8 = ? + 10 ? = 62",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q33)"
+  },
+  {
+    "id": "quant-simpli-002-0034-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": "What will come in the place of\nquestion mark in following questions.",
+    "questionText": "√1331 + √81+? = 27",
+    "options": {
+      "a": "19",
+      "b": "18",
+      "c": "17",
+      "d": "16",
+      "e": "15"
+    },
+    "correctOption": "c",
+    "solutionText": "11 + 9+?= 27 1 + 9 + ? = 27 ? = 17",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q34)"
+  },
+  {
+    "id": "quant-simpli-002-0035-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": "What will come in the place of\nquestion mark in following questions.",
+    "questionText": "(14)² + 179 + (5)² = (?)²",
+    "options": {
+      "a": "10",
+      "b": "20",
+      "c": "30",
+      "d": "40",
+      "e": "22"
+    },
+    "correctOption": "b",
+    "solutionText": "196 + 179 + 25 = (?)² (?)² = 400 ? = 20",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q35)"
+  },
+  {
+    "id": "quant-simpli-002-0036-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "28.5× 34 + 2320 ÷ 8 = (36)2 - ?",
+    "options": {
+      "a": "51",
+      "b": "47",
+      "c": "43",
+      "d": "34",
+      "e": "37"
+    },
+    "correctOption": "e",
+    "solutionText": "28.5× 34 + 2320 ÷ 8 = (36)2 - ? 969 + 290 =1296 - ? 1259 =1296 - ? ?=1296 -1259 =37",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q36)"
+  },
+  {
+    "id": "quant-simpli-002-0037-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "47× 27 + 15600 ÷ 8 + 181 = ?",
+    "options": {
+      "a": "3320",
+      "b": "3420",
+      "c": "3370",
+      "d": "3400",
+      "e": "3460"
+    },
+    "correctOption": "d",
+    "solutionText": "?= 47× 27 + 15600 ÷ 8 + 181 = 1269 + 1950 +181 =3400",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q37)"
+  },
+  {
+    "id": "quant-simpli-002-0038-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "112.5× 5 + 4560 ÷ 6 −175 × 7 = ?",
+    "options": {
+      "a": "103.5",
+      "b": "91.5",
+      "c": "97.5",
+      "d": "110.5",
+      "e": "115.5"
+    },
+    "correctOption": "c",
+    "solutionText": "? = 112.5× 5 + 4560 ÷ 6 −175 × 7 =562.5 + 760 – 1225 =1322.5 – 1225 = 97.5",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q38)"
+  },
+  {
+    "id": "quant-simpli-002-0039-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "80% of ? = √250 × 44 + 40% of 8500",
+    "options": {
+      "a": "80",
+      "b": "120",
+      "c": "150",
+      "d": "180",
+      "e": "240"
+    },
+    "correctOption": "c",
+    "solutionText": "80% 𝑜𝑓 ?= √250 × 44 + 40×8500 ⇒ 100 × ? = √11000 + 3400 ⇒? = √14400 × ⇒ ? = 120 × 8 = 150",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q39)"
+  },
+  {
+    "id": "quant-simpli-002-0040-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "? × 40 ÷ 24 × 27 = 115 ×",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4",
+      "e": "5"
+    },
+    "correctOption": "a",
+    "solutionText": "?× 24 × 27 = 115 × ⇒ ? × 45 = 45 ⇒ ? = 1",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q40)"
+  },
+  {
+    "id": "quant-simpli-002-0041-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "? + 13× 50 = 420 + 45% of 800 + 220",
+    "options": {
+      "a": "300",
+      "b": "350",
+      "c": "400",
+      "d": "450",
+      "e": "250"
+    },
+    "correctOption": "b",
+    "solutionText": "? +13 × 50 = 420 + 100 × 800 + 220 ⇒ ? +650 = 420 + 360 + 220 ⇒ ? = 1000 − 650 = 350",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q41)"
+  },
+  {
+    "id": "quant-simpli-002-0042-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "12 % of ? + 12.5% of 960 = 16 × 12",
+    "options": {
+      "a": "840",
+      "b": "960",
+      "c": "800",
+      "d": "600",
+      "e": "400"
+    },
+    "correctOption": "d",
+    "solutionText": "100 × ? + 8 × 960 = 192 100 × ? = 192 – 120 100 × ? = 72 ? = 600",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q42)"
+  },
+  {
+    "id": "quant-simpli-002-0043-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "15 × ? +20% of 450 = 360",
+    "options": {
+      "a": "12",
+      "b": "20",
+      "c": "24",
+      "d": "16",
+      "e": "18"
+    },
+    "correctOption": "e",
+    "solutionText": "15 × ? + 100 × 450 = 360 15 × ?= 360 −90 15 × ?= 270 ? = 18",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q43)"
+  },
+  {
+    "id": "quant-simpli-002-0044-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "75% of 4 × 9 × 1800 = ? + 600",
+    "options": {
+      "a": "300",
+      "b": "400",
+      "c": "250",
+      "d": "480",
+      "e": "540"
+    },
+    "correctOption": "a",
+    "solutionText": "4 × 4 × 9 × 1800 = ? +600 ? = 900 – 600 ? = 300",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q44)"
+  },
+  {
+    "id": "quant-simpli-002-0045-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "? % of 900 + 500 = 4 × 197",
+    "options": {
+      "a": "28",
+      "b": "25",
+      "c": "36",
+      "d": "40",
+      "e": "32"
+    },
+    "correctOption": "e",
+    "solutionText": "? 100 × 900 + 500 = 788 ? = 288×100 ? = 32",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q45)"
+  },
+  {
+    "id": "quant-simpli-002-0046-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": "What should come in place of\nquestion mark (?) in following questions?",
+    "questionText": "(48% of 625) ÷ 0.75 = ?",
+    "options": {
+      "a": "800",
+      "b": "None of these",
+      "c": "40",
+      "d": "4000",
+      "e": "400"
+    },
+    "correctOption": "e",
+    "solutionText": "100 × 625 × 3 =? ⇒ ? = 400",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q46)"
+  },
+  {
+    "id": "quant-simpli-002-0047-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": "What should come in place of\nquestion mark (?) in following questions?",
+    "questionText": "",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "4",
+      "d": "5",
+      "e": "3"
+    },
+    "correctOption": "c",
+    "solutionText": "64+324 =? ? = 4 4? = 64 4? = (4)3 ? = 3",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q47)"
+  },
+  {
+    "id": "quant-simpli-002-0048-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": "What should come in place of\nquestion mark (?) in following questions?",
+    "questionText": "(4)? × 2 = (16)2 √16",
+    "options": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "1",
+      "e": "None of these"
+    },
+    "correctOption": "b",
+    "solutionText": "4? × 2 = @cetexamgroup",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q48)"
+  },
+  {
+    "id": "quant-simpli-002-0049-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": "What should come in place of\nquestion mark (?) in following questions?",
+    "questionText": "",
+    "options": {
+      "a": "6",
+      "b": "12",
+      "c": "8",
+      "d": "4",
+      "e": "16"
+    },
+    "correctOption": "c",
+    "solutionText": "4 × ? = 512 − 480 ? = ? = 8",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q49)"
+  },
+  {
+    "id": "quant-simpli-002-0050-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": "What should come in place of\nquestion mark (?) in following questions?",
+    "questionText": "? + 432 – 205 = 550",
+    "options": {
+      "a": "384",
+      "b": "244",
+      "c": "224",
+      "d": "276",
+      "e": "324"
+    },
+    "correctOption": "e",
+    "solutionText": "? + 432 – 206 = 550 ? = 550 – 226 ? = 324",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q50)"
+  },
+  {
+    "id": "quant-simpli-002-0051-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "",
+    "options": {
+      "a": "10",
+      "b": "12",
+      "c": "8",
+      "d": "6",
+      "e": "9"
+    },
+    "correctOption": "a",
+    "solutionText": "(?)2 = 196 – 96 ?2 = 100 ⇒ ? = 10",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q51)"
+  },
+  {
+    "id": "quant-simpli-002-0052-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "40% of 400 + ? % of 300 = 250",
+    "options": {
+      "a": "40",
+      "b": "36",
+      "c": "25",
+      "d": "30",
+      "e": "20"
+    },
+    "correctOption": "d",
+    "solutionText": "100 × 400 + 100 ×? = 250 160 + 3 × ? = 250 ? = 3 = 30",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q52)"
+  },
+  {
+    "id": "quant-simpli-002-0053-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "",
+    "options": {
+      "a": "185",
+      "b": "183",
+      "c": "187",
+      "d": "184",
+      "e": "182 @cetexamgroup"
+    },
+    "correctOption": "b",
+    "solutionText": "÷ 7 = ? −180 ? = 183",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q53)"
+  },
+  {
+    "id": "quant-simpli-002-0054-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "",
+    "options": {
+      "a": "1",
+      "b": "4",
+      "c": "5",
+      "d": "2",
+      "e": "3"
+    },
+    "correctOption": "e",
+    "solutionText": "24 – 12 + 27 = 36 + ? ?= 3",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q54)"
+  },
+  {
+    "id": "quant-simpli-002-0055-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "",
+    "options": {
+      "a": "10",
+      "b": "13",
+      "c": "17",
+      "d": "8",
+      "e": "16"
+    },
+    "correctOption": "b",
+    "solutionText": "119 + 41 + 9 =?2 ? = 13",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q55)"
+  },
+  {
+    "id": "quant-simpli-002-0056-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "12% (? + 100) = 18",
+    "options": {
+      "a": "40",
+      "b": "50",
+      "c": "30",
+      "d": "100",
+      "e": "60"
+    },
+    "correctOption": "b",
+    "solutionText": "100 × (? +100) = 18 ? = 150 – 100 ? = 50",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q56)"
+  },
+  {
+    "id": "quant-simpli-002-0057-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "",
+    "options": {
+      "a": "19",
+      "b": "18",
+      "c": "17",
+      "d": "16",
+      "e": "15"
+    },
+    "correctOption": "c",
+    "solutionText": "11 + 9+?= 27 1 + 9 + ? = 27 ? = 17",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q57)"
+  },
+  {
+    "id": "quant-simpli-002-0058-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "",
+    "options": {
+      "a": "3",
+      "b": "4",
+      "c": "2",
+      "d": "1",
+      "e": "5"
+    },
+    "correctOption": "b",
+    "solutionText": "?2 + 20 = 36 ?2 = 16 ⇒ ? = 4",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q58)"
+  },
+  {
+    "id": "quant-simpli-002-0059-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "",
+    "options": {
+      "a": "4",
+      "b": "4 ½",
+      "c": "5",
+      "d": "5⅙",
+      "e": "6"
+    },
+    "correctOption": "d",
+    "solutionText": "? = 9 3 + 7 2 −5 6 −6 ? = 9 + 7 −5 −6 ( 3 + 2 − 6 − 3) ? = 5",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q59)"
+  },
+  {
+    "id": "quant-simpli-002-0060-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "",
+    "options": {
+      "a": "2",
+      "b": "3",
+      "c": "0",
+      "d": "6",
+      "e": "7"
+    },
+    "correctOption": "c",
+    "solutionText": "34×37×2 36×3 = 3? 3? = 34+14-18 3? = 30 ? = 0 @cetexamgroup @cetexamgroup",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q60)"
+  },
+  {
+    "id": "quant-simpli-002-0061-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": "What approximate value will come in\nplace of (?) in the following questions?",
+    "questionText": "234.01 × ? 12.99 −29.9% 𝑜𝑓 499.9 = 810.01 ÷ 26.98",
+    "options": {
+      "a": "30",
+      "b": "20",
+      "c": "15",
+      "d": "10",
+      "e": "25"
+    },
+    "correctOption": "d",
+    "solutionText": "234 × ? 13 − 100 × 500 = 810 × 18 × ?  – 150 = 30 ? = ? = 10",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q61)"
+  },
+  {
+    "id": "quant-simpli-002-0062-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": "What approximate value will come in\nplace of (?) in the following questions?",
+    "questionText": "59.99 180.01 × √81.011 + 249.98% 𝑜𝑓 160.01 = ?",
+    "options": {
+      "a": "407",
+      "b": "412",
+      "c": "399",
+      "d": "395",
+      "e": "403"
+    },
+    "correctOption": "e",
+    "solutionText": "180 × 9 + 100 × 160 = ? 3 + 400 = ? ? = 403",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q62)"
+  },
+  {
+    "id": "quant-simpli-002-0063-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": "What approximate value will come in\nplace of (?) in the following questions?",
+    "questionText": "(5.01)3 × (23.99)2 ÷ (44.98)3 = (? )2",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": "",
+      "e": ""
+    },
+    "correctOption": "b",
+    "solutionText": "5 × 5 × 5 × 24 × 24 × 45 × 45 × 45 = (? )² (?)² = (?) =",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q63)"
+  },
+  {
+    "id": "quant-simpli-002-0064-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": "What approximate value will come in\nplace of (?) in the following questions?",
+    "questionText": "{29.001 + 120.99} ÷ (4.98)2 + 4.01 × (? )2 = 75% 𝑜𝑓 839.98 + 51.995",
+    "options": {
+      "a": "17",
+      "b": "13",
+      "c": "16",
+      "d": "15",
+      "e": "14"
+    },
+    "correctOption": "b",
+    "solutionText": "(29 + 121) × 25 + 4 × (?)² = 100 × 840 + 52 4 × (?)² = 630 – 6 + 52 (?)² = (?) = √169 (?) = 13",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q64)"
+  },
+  {
+    "id": "quant-simpli-002-0065-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": "What approximate value will come in\nplace of (?) in the following questions?",
+    "questionText": "√1520.98 + √144.01 + √576.001+ ?= 31.997% of 799.9",
+    "options": {
+      "a": "181",
+      "b": "211",
+      "c": "171",
+      "d": "201",
+      "e": "191"
+    },
+    "correctOption": "a",
+    "solutionText": "39 + 12 + 24 + ? = 100 × 800 ? = 256 – 75 ? = 181",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q65)"
+  },
+  {
+    "id": "quant-simpli-002-0066-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": "What approximate value should\ncome in place of Question mark (?) in the following\nequation?",
+    "questionText": "25 % 𝑜𝑓 295.7×32.02 ? = 36.99 25% 𝑜𝑓1",
+    "options": {
+      "a": "2",
+      "b": "4",
+      "c": "6",
+      "d": "8",
+      "e": "1"
+    },
+    "correctOption": "b",
+    "solutionText": "⇒ 4 × 296×32 ? = 4×1 ⇒ ? = 4 × 4 × 4 × 37 × 32 ⇒? = 4",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q66)"
+  },
+  {
+    "id": "quant-simpli-002-0067-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": "What approximate value should\ncome in place of Question mark (?) in the following\nequation?",
+    "questionText": "√404.99×315.01×245.40 √331 3% 𝑜𝑓 26.99 =?",
+    "options": {
+      "a": "100",
+      "b": "105",
+      "c": "110",
+      "d": "115",
+      "e": "95"
+    },
+    "correctOption": "b",
+    "solutionText": "√405×315×245 √1 3×27 =? ⇒ ? = √5×81×5×63×5×49 ⇒ ? = 5×7×9 ⇒ ? = 105",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q67)"
+  },
+  {
+    "id": "quant-simpli-002-0068-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": "What approximate value should\ncome in place of Question mark (?) in the following\nequation?",
+    "questionText": "19.66% 𝑜𝑓 144.87 − 266.47 118.84 × 18.84 =?3",
+    "options": {
+      "a": "5",
+      "b": "7",
+      "c": "0",
+      "d": "3",
+      "e": "6"
+    },
+    "correctOption": "d",
+    "solutionText": "100 × 145 − 119 × 19 =?3 ⇒ ?3 = 29 −2 ⇒ ?3 = 33 ⇒ ? = 3",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q68)"
+  },
+  {
+    "id": "quant-simpli-002-0069-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": "What approximate value should\ncome in place of Question mark (?) in the following\nequation?",
+    "questionText": "√82 ÷ 8.76 ÷ 9.25 × 3.76 + 91.10 × 473.92 237.40 + 7.91 =?",
+    "options": {
+      "a": "100",
+      "b": "400",
+      "c": "256",
+      "d": "169",
+      "e": "196"
+    },
+    "correctOption": "e",
+    "solutionText": "√81 × 9 × 9 × 4 + 91 × 237 + 8 =? ⇒ ? 2 = 2 + 4 + 8 ⇒ ? = 196",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q69)"
+  },
+  {
+    "id": "quant-simpli-002-0070-simpl",
+    "subject": "Reasoning & Computer Aptitude",
+    "chapter": "Simplification",
+    "examTracks": [
+      "mains"
+    ],
+    "passage": "What approximate value should\ncome in place of Question mark (?) in the following\nequation?",
+    "questionText": "6739 + 161 × 4.966 −74.99 × 11.888 + 20%𝑜𝑓121 −10%𝑜𝑓109 =?",
+    "options": {
+      "a": "6657",
+      "b": "7067",
+      "c": "7167",
+      "d": "6587",
+      "e": "6757 @cetexamgroup"
+    },
+    "correctOption": "a",
+    "solutionText": "6739 + 161 × 5 −75 × 12 + 100 × 120 − 100 × 110 =? ⇒ ? = 6739 + 805 −900 + 24 −11 ⇒ ? =6657 @cetexamgroup",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 1 - Simplification (Q70)"
+  },
+  {
+    "id": "quant-permut-319-0001-prob",
+    "subject": "Quantitative Aptitude",
+    "chapter": "Probability",
+    "examTracks": [
+      "prelims",
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "A dice is rolled twice what is the probability that the number in the second roll will be lesser than that in the first?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": "",
+      "e": ""
+    },
+    "correctOption": "d",
+    "solutionText": "When dice is rolled two times Total number of possibilities = 36 (i.e. 6²) Desired possibilities = 6C2 × 1 (i.e. two number are selected for two rolls) 1 No. of way to arrange number in descending orders. ∴ Required probability = 6C2 36 =",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 12 - P&C and Probability (Q1)"
+  },
+  {
+    "id": "quant-permut-319-0002-prob",
+    "subject": "Quantitative Aptitude",
+    "chapter": "Probability",
+    "examTracks": [
+      "prelims",
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "There are 5 red, 6 black and 5 blue balls in a bag. Out of these balls, four balls are picked at random from the bag. Then, what is the probability that one is red, two are black and one is blue ball?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": "",
+      "e": "IBPS"
+    },
+    "correctOption": "b",
+    "solutionText": "Ways to select 4 balls out of 16 balls = 16C4 Ways to select one red balls = 5C1 Ways to select two black balls = 6C2 Ways to select one blue balls = 5C1 ∴ Required probability  = 5C1×6C2×5C1 16C4 =",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 12 - P&C and Probability (Q2)"
+  },
+  {
+    "id": "quant-permut-319-0003-prob",
+    "subject": "Quantitative Aptitude",
+    "chapter": "Probability",
+    "examTracks": [
+      "prelims",
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "A basket contains 8 Blue, 5 Red and 6 Green balls. 3 Balls are drawn from the basket, then find the probability of getting all 3 balls drawn are of different colors?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": "",
+      "e": ""
+    },
+    "correctOption": "b",
+    "solutionText": "Total Balls = 8 +5 +6 =19 balls Probability of getting all balls of same color = 8c3+5c3+6c3 19c3 = (8 × 7 × 6 3 × 2 × 1+5 × 4 2 × 1+6 × 5 × 4 3 × 2 × 1) 19 × 18 × 17 3 × 2 × 1 = Required probability = 1 – 969 =",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 12 - P&C and Probability (Q3)"
+  },
+  {
+    "id": "quant-permut-319-0004-prob",
+    "subject": "Quantitative Aptitude",
+    "chapter": "Probability",
+    "examTracks": [
+      "prelims",
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "one ball being red and one ball being blue is 66. If ‘n’ blue balls added in bag and then two balls are taken out randomly from bag, then minimum probability of remaining blue balls in bag is 14, find ‘n’? (blue balls are more than red balls in the bag initially).",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "4",
+      "d": "6",
+      "e": "8"
+    },
+    "correctOption": "c",
+    "solutionText": "Let total number of red balls = x So, total number of blue balls = (12 – x) ATQ – 𝑥(12−𝑥) 6 ×11  = 12x – x2 = 35 ⇒ x2 –  12𝑥+ 35 = 0 x(x – 5) – 7 (x – 5) = 0 ⇒ x = 5 & 7 Now new number of blue balls in bag = (7 + n) Given, (5+𝑛) (10+𝑛) = 70 + 14n = 90 + 9n ⇒ 5n = 20 ⇒ n = 4",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 12 - P&C and Probability (Q4)"
+  },
+  {
+    "id": "quant-permut-319-0005-prob",
+    "subject": "Quantitative Aptitude",
+    "chapter": "Probability",
+    "examTracks": [
+      "prelims",
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "A box contains 12 red, 6 green and ‘x’ yellow balls. Probability of choosing one green ball out of the box is 9, then find the probability of choosing one ball which can be either red or yellow?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": "",
+      "e": ""
+    },
+    "correctOption": "d",
+    "solutionText": "ATQ, 12+6+𝑥= ⇒ x = 2 = 9 Required probability = 9+12 12+6+9 = 27 = Alternate, Required Probability = 1 – Probability of choosing one green ball = 1 – 27 =",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 12 - P&C and Probability (Q5)"
+  },
+  {
+    "id": "quant-permut-319-0006-prob",
+    "subject": "Quantitative Aptitude",
+    "chapter": "Probability",
+    "examTracks": [
+      "prelims",
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "Three are 5 green balls, 7 blue balls and 3 red balls in a bag. If 2 balls are chosen randomly from the bag, then find the probability that at least one ball is green ball.",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": "",
+      "e": "IBPS"
+    },
+    "correctOption": "e",
+    "solutionText": "Possible cases = 1 green ball or 2 green balls Required probability = 5𝐶1 × 10𝐶1 15𝐶2 + 5𝐶2 15𝐶2 = 5 ×10 15𝐶2 + 15𝐶2 = 105 + = 105 =",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 12 - P&C and Probability (Q6)"
+  },
+  {
+    "id": "quant-permut-319-0007-prob",
+    "subject": "Quantitative Aptitude",
+    "chapter": "Probability",
+    "examTracks": [
+      "prelims",
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "When 2 cards are drawn randomly from a pack of cards, then find the probability of getting at most 1 ace card.",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": "",
+      "e": ""
+    },
+    "correctOption": "e",
+    "solutionText": "Required probability = ( (48𝐶1× 4𝐶1)+ 48𝐶2 52𝐶2 ) = 192+1128 =",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 12 - P&C and Probability (Q7)"
+  },
+  {
+    "id": "quant-permut-319-0008-prob",
+    "subject": "Quantitative Aptitude",
+    "chapter": "Probability",
+    "examTracks": [
+      "prelims",
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "A bag contains balls of two colours, 3 black and 3 white. What is the minimum number of balls which must be drawn from the bag, without looking, so that among these there are two of the same colour?",
+    "options": {
+      "a": "120",
+      "b": "240",
+      "c": "480",
+      "d": "720",
+      "e": "None of these"
+    },
+    "correctOption": "b",
+    "solutionText": "The minimum possible no. of balls which must be drawn so that among these there are two of the same color = 3",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 12 - P&C and Probability (Q8)"
+  },
+  {
+    "id": "quant-permut-319-0009-prob",
+    "subject": "Quantitative Aptitude",
+    "chapter": "Probability",
+    "examTracks": [
+      "prelims",
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "A box contains 10 identical elctronic components of",
+    "options": {
+      "d": "",
+      "a": "",
+      "b": "",
+      "c": "",
+      "e": "None of these"
+    },
+    "correctOption": "c",
+    "solutionText": "Required probability = 𝐶 1 × 𝐶 𝐶 10 3 = 6 × 6 × 6 10 × 9 × 8 =",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 12 - P&C and Probability (Q9)"
+  },
+  {
+    "id": "quant-permut-319-0010-prob",
+    "subject": "Quantitative Aptitude",
+    "chapter": "Probability",
+    "examTracks": [
+      "prelims",
+      "mains"
+    ],
+    "passage": "There are three sections A, B and C in a\nclass. Every section has some boy and some girl students in\nit. Probability of a girl being selected when one student is\nselected randomly from section A is\n5, that from section B\nis\n9 and that from section C is",
+    "questionText": "If 20 girls leaves section B, then the probability of a boy being selected when one student is selected randomly from this section will be 8. What is the number of boys in section B?",
+    "options": {
+      "a": "120",
+      "b": "100",
+      "c": "75",
+      "d": "60",
+      "e": "Cannot be determined"
+    },
+    "correctOption": "c",
+    "solutionText": "No. of digits = 5 No. of places = 4 Required number = 𝑃 4 = 5! 1! = 5 × 4 × 3 × 2 = 120",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 12 - P&C and Probability (Q10)"
+  },
+  {
+    "id": "quant-permut-319-0011-prob",
+    "subject": "Quantitative Aptitude",
+    "chapter": "Probability",
+    "examTracks": [
+      "prelims",
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "A bag contains 12 balls (Red & blue). Two balls are taken out randomly from the bag and probability of 66. If ‘n’ remaining blue balls in bag is 14 more than red balls in the bag initially).",
+    "options": {
+      "a": "128 one ball being red and one ball being blue is 19. Bag – A contains 8 red balls and 4 green balls and bag-",
+      "b": "",
+      "c": "",
+      "d": "",
+      "e": "blue balls added in bag and then two balls are taken out randomly from bag, then minimum probability of 9 , find ‘n’? (blue balls are B contains 6 red balls and 9 green balls. If a bag is chosen randomly and two balls are picked randomly from the bag, then find the probability of both drawn balls being green balls."
+    },
+    "correctOption": "d",
+    "solutionText": "Each question can be answered in 2 ways. Hence, total No. of sequences = 2 × 2 × 2 ..... 10 times = 2 10 = 1024",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 12 - P&C and Probability (Q11)"
+  },
+  {
+    "id": "quant-permut-319-0012-prob",
+    "subject": "Quantitative Aptitude",
+    "chapter": "Probability",
+    "examTracks": [
+      "prelims",
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "A bag contains 4 blue and 5 black balls and another bag @cetexamgroup 23. what is the probability of getting a pair of even numbered cards when two cards draw from a well shuffled pack of card?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": "",
+      "e": "@cetexamgroup Mains Questions"
+    },
+    "correctOption": "d",
+    "solutionText": "Total no. of possible ways = 𝐶 2 = 9 × 10 = 45",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 12 - P&C and Probability (Q12)"
+  },
+  {
+    "id": "quant-permut-319-0013-prob",
+    "subject": "Quantitative Aptitude",
+    "chapter": "Probability",
+    "examTracks": [
+      "prelims",
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "In how many ways can 5 prizes be given away to 7 students when each student is eligible for every prize?",
+    "options": {
+      "a": "75",
+      "b": "57",
+      "c": "7!",
+      "d": "5!",
+      "e": "(7!)5"
+    },
+    "correctOption": "b",
+    "solutionText": "If A and B are always together, then total no. of children is 3 ∴ No. of ways = 3! and A and B also interchange their places. So no. of ways = 2! ⇒ Total no. of ways = 3! × 2! = 12",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 12 - P&C and Probability (Q13)"
+  },
+  {
+    "id": "quant-permut-319-0014-prob",
+    "subject": "Quantitative Aptitude",
+    "chapter": "Probability",
+    "examTracks": [
+      "prelims",
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "An urn contains 6 red balls and 9 green balls. Two balls are drawn from the urn one after other without replacement. Find the probability of drawing a red ball when a green ball has been drawn from the urn.",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": "",
+      "e": ""
+    },
+    "correctOption": "d",
+    "solutionText": "No. of ways in which 6 persons can stand in a queue at a time = 6! = 720",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 12 - P&C and Probability (Q14)"
+  },
+  {
+    "id": "quant-permut-319-0015-prob",
+    "subject": "Quantitative Aptitude",
+    "chapter": "Probability",
+    "examTracks": [
+      "prelims",
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "If two dices are rolled together, then find the probability of getting a number of one dice greater than the number on other dice?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": "",
+      "e": ""
+    },
+    "correctOption": "b",
+    "solutionText": "Total no. of face cards (Ace, King, Queen and Jack of all suits) = 4 × 4 = 16 Requried Probability = 52 =",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 12 - P&C and Probability (Q15)"
+  },
+  {
+    "id": "quant-permut-319-0016-prob",
+    "subject": "Quantitative Aptitude",
+    "chapter": "Probability",
+    "examTracks": [
+      "prelims",
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "In an objective question there is a choice of five alternatives in which one is correct. Find the probability of wrong option chosen by Anurag, if Anurag correct every two question out of three.",
+    "options": {
+      "a": "⅕",
+      "b": "⅓",
+      "c": "⅗",
+      "d": "4/15",
+      "e": "8/15"
+    },
+    "correctOption": "b",
+    "solutionText": "No. of black cards = 26 No. of cards which are not black = 52 – 26 = 26 Required Probability = 52 =",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 12 - P&C and Probability (Q16)"
+  },
+  {
+    "id": "quant-permut-319-0017-prob",
+    "subject": "Quantitative Aptitude",
+    "chapter": "Probability",
+    "examTracks": [
+      "prelims",
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "Bag-A contains 6 blue balls, 7 red balls and 2 green balls and Bag-B contains 5 blue balls, x red balls and 2 green balls. A bag is chosen randomly and two balls are taken out from it randomly, then the probability of getting two red balls is 15. Find number of red balls in Bag-B.",
+    "options": {
+      "a": "2",
+      "b": "5",
+      "c": "1",
+      "d": "4",
+      "e": "None of the above."
+    },
+    "correctOption": "b",
+    "solutionText": "Sample space S = {1, 2, 3, ...... 30};  n(s) = 30 Let A = The event of drawing a ticket having a number which is multiple of 5 B = The event of drawing a ticket having a number which is a multiple of 7 Then, A = {5, 10, 15, 20, 25, 30} n{A} = 6 B = {7, 14, 21, 28} n{B} = 4 Hence P(A ∪ B) = P(A) + P(B) = 𝑛(𝐴) 𝑛(𝑆) + 𝑛(𝐵) 𝑛(𝑆) = 30 + 30 = 30 =",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 12 - P&C and Probability (Q17)"
+  },
+  {
+    "id": "quant-permut-319-0018-prob",
+    "subject": "Quantitative Aptitude",
+    "chapter": "Probability",
+    "examTracks": [
+      "prelims",
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "An urn contains 4 red, 5 green, 6 blue and some yellow balls. If two balls are drawn at random, the probability of getting at least one yellow ball is 38. find the yellow balls in the urn.",
+    "options": {
+      "a": "4",
+      "b": "5",
+      "c": "6",
+      "d": "10",
+      "e": "15"
+    },
+    "correctOption": "a",
+    "solutionText": "Total no. of outcomes = 210 Again, the number of favourable cases of getting exactly 5 heads = 𝐶 ∴ Required probability = 𝐶 210  = @cetexamgroup",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 12 - P&C and Probability (Q18)"
+  },
+  {
+    "id": "quant-permut-319-0019-prob",
+    "subject": "Quantitative Aptitude",
+    "chapter": "Probability",
+    "examTracks": [
+      "prelims",
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "In a bag, there are 4 red, 9 blue and X yellow balls. Two balls are drawn at random and the probability of both balls being blue is 19. Find the value of X ?",
+    "options": {
+      "a": "4",
+      "b": "5",
+      "c": "6",
+      "d": "7",
+      "e": "8"
+    },
+    "correctOption": "a",
+    "solutionText": "Given, P(A) = 3, P(B) = 9, and P(A ∩ B) = P(A ∪ B) = P(A) + P(B) – P(A ∩ B) = 3 + 9 – 45 = 30 + 20 – 14 = 45 =",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 12 - P&C and Probability (Q19)"
+  },
+  {
+    "id": "quant-permut-319-0020-prob",
+    "subject": "Quantitative Aptitude",
+    "chapter": "Probability",
+    "examTracks": [
+      "prelims",
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "Probability of choosing a tiger over all animals (Ostrich, Tiger and Jackals) is 16. Find probability of picking a jackal, if ratio between number of heads to number of legs in park is 2 : 7.",
+    "options": {
+      "a": "Cannot be determined",
+      "b": "2/7",
+      "c": "5/16",
+      "d": "3/16",
+      "e": "¼"
+    },
+    "correctOption": "b",
+    "solutionText": "Probability of not getting 6 in one throw = 1 − 6 = The chance of not getting six in six throws is given by ( 6) Hence the chance of throwing six at least once in six throws is given by [1 −( 6) ]",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 12 - P&C and Probability (Q20)"
+  },
+  {
+    "id": "quant-permut-319-0021-prob",
+    "subject": "Quantitative Aptitude",
+    "chapter": "Probability",
+    "examTracks": [
+      "prelims",
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "A bag contains x green balls, 7 blue balls and 8 red balls. When two balls are drawn from bag randomly, then the probability of one ball being green and one ball being red is 15. Find value of x (number of green balls cannot be more than 18 balls).",
+    "options": {
+      "a": "3",
+      "b": "5",
+      "c": "10",
+      "d": "9",
+      "e": "15"
+    },
+    "correctOption": "b",
+    "solutionText": "Formation of two-digit numbers with the digits 2, 3, 5, 7, 9 without repetition: Let S = The sample space and E = The event that the number formed is 35 Now n(E) = 1 and n(S) = total numbers of two digit formed with  the digits 2, 3, 5, 7, 9 without repetition. = 𝑃 2 = 5 × 4 =20 Required probability P(E) = 𝑛(𝐸) 𝑛(𝑆) =",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 12 - P&C and Probability (Q21)"
+  },
+  {
+    "id": "quant-permut-319-0022-prob",
+    "subject": "Quantitative Aptitude",
+    "chapter": "Probability",
+    "examTracks": [
+      "prelims",
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "In a bag, there are some red, black and yellow balls. Sum of black and yellow balls is 9. Probability of selecting two red balls from that bag is 1/7 which is 250% of the probability of selecting two black balls. Find number of yellow balls in that bag if the number of black balls is even.",
+    "options": {
+      "a": "3",
+      "b": "5",
+      "c": "6",
+      "d": "4",
+      "e": "None of these"
+    },
+    "correctOption": "c",
+    "solutionText": "Total sample space n(S) = 6 × 6 = 36 E = The even that the sum of numbers coming up is 12 (6, 6); n(E) = 1 ∴ P(E) = 𝑛(𝐸) 𝑛(𝑆) = Required Probability = P(E̅) = 1 – P(E) = 1 – 36 =",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 12 - P&C and Probability (Q22)"
+  },
+  {
+    "id": "quant-permut-319-0023-prob",
+    "subject": "Quantitative Aptitude",
+    "chapter": "Probability",
+    "examTracks": [
+      "prelims",
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "What is the probability of drawing 4 red balls and 2 yellow balls from a bag containing 10 red balls and 5 yellow balls?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": "",
+      "e": ""
+    },
+    "correctOption": "b",
+    "solutionText": "S = {1, 2, 3, ...... 21} n(S) = 21 E = {3, 6, 9, 12, 15, 18, 21} n(E) = 7 ∴ P(E) = 𝑛(𝐸) 𝑛(𝑆) = 21 =",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 12 - P&C and Probability (Q23)"
+  },
+  {
+    "id": "quant-permut-319-0024-prob",
+    "subject": "Quantitative Aptitude",
+    "chapter": "Probability",
+    "examTracks": [
+      "prelims",
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "In how many ways can 5 letter words be formed from 2nd, 5th, 6th, 8th and 9th letter of the word ‘METICULOUS’?",
+    "options": {
+      "a": "120",
+      "b": "60",
+      "c": "240",
+      "d": "24",
+      "e": "12"
+    },
+    "correctOption": "c",
+    "solutionText": "Given: In the first bag no. of white balls = 4 and no. of black balls = 2 And in second bag, no. of white balls = 3 and no. of black balls = 5 We know that probability of drawing one black ball from the first bag out of 6 balls = 6 = Similarly, probability of drawing one black ball from the second bag out of 8 balls = Therefore probability that both balls are black = 3 × 8 =",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 12 - P&C and Probability (Q24)"
+  },
+  {
+    "id": "quant-permut-319-0025-prob",
+    "subject": "Quantitative Aptitude",
+    "chapter": "Probability",
+    "examTracks": [
+      "prelims",
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "In a basket, there are 5 green ,4 blue and 2 red balls in a basket. What is the probability of both balls being blue or green ball, if 2 balls are picked from the basket?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": "",
+      "e": "none of these"
+    },
+    "correctOption": "b",
+    "solutionText": "Given no. of red balls = 3, No. of black balls = 7 No. of balls taken out at random = 2 we know that total balls in the bag = 3 + 7 = 10 we also know that probability for taking out one red ball out of 10 balls = Similarly, probability for taking out one red ball out of the remaning 9 balls = Therefore, required probability = 10 × 9 = @cetexamgroup @cetexamgroup",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 12 - P&C and Probability (Q25)"
+  },
+  {
+    "id": "quant-permut-319-0026-prob",
+    "subject": "Quantitative Aptitude",
+    "chapter": "Probability",
+    "examTracks": [
+      "prelims",
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "What is the probability of drawing 3 red cards from a pack having 2 black cards missing?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": "",
+      "e": "None of these @cetexamgroup"
+    },
+    "correctOption": "d",
+    "solutionText": "Ways to select 3 balls out of 8 balls = 8𝐶3 Ways to select one red ball = 2𝐶1 Ways to select two black ball = 3𝐶1 Ways to select one white balls = 3𝐶1 ∴ Required probability = 2𝐶1×3𝐶1×3𝐶1 8𝐶3 =",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 12 - P&C and Probability (Q26)"
+  },
+  {
+    "id": "quant-permut-319-0027-prob",
+    "subject": "Quantitative Aptitude",
+    "chapter": "Probability",
+    "examTracks": [
+      "prelims",
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "In how many ways can a Cricket team be selected from a squad of 15 players?",
+    "options": {
+      "a": "2730",
+      "b": "1370",
+      "c": "1400",
+      "d": "1365",
+      "e": "Cannot be determined"
+    },
+    "correctOption": "c",
+    "solutionText": "Required Probability = C3 + C3 + C3 C3 = 10+35+4 =",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 12 - P&C and Probability (Q27)"
+  },
+  {
+    "id": "quant-permut-319-0028-prob",
+    "subject": "Quantitative Aptitude",
+    "chapter": "Probability",
+    "examTracks": [
+      "prelims",
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "A dice is rolled twice, determine the probability that number in the second roll will be higher than that in the first roll.",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": "",
+      "e": ""
+    },
+    "correctOption": "e",
+    "solutionText": "Four digits number with all four digits odd = 5 × 5 × 5 × 5 = 625",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 12 - P&C and Probability (Q28)"
+  },
+  {
+    "id": "quant-permut-319-0029-prob",
+    "subject": "Quantitative Aptitude",
+    "chapter": "Probability",
+    "examTracks": [
+      "prelims",
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "Out of 7 consonants and 6 vowels, how many words (with or without meaning) can be made each containing 4 consonants and 2 vowels?",
+    "options": {
+      "a": "720× 7!",
+      "b": "500× 7!",
+      "c": "625× 6!",
+      "d": "525× 6!",
+      "e": "none of these"
+    },
+    "correctOption": "d",
+    "solutionText": "To put 5 different chocolate in identical boxes → Boxes treated as one box → 1 way Choices vary in selection of chocolates ⇒ to choose 5 chocolates → 5! Answer 5! × 1 ⇒ 120",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 12 - P&C and Probability (Q29)"
+  },
+  {
+    "id": "quant-permut-319-0030-prob",
+    "subject": "Quantitative Aptitude",
+    "chapter": "Probability",
+    "examTracks": [
+      "prelims",
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "How many words can be formed using four letters of word “FATHER”?",
+    "options": {
+      "a": "120",
+      "b": "720",
+      "c": "360",
+      "d": "480",
+      "e": "180"
+    },
+    "correctOption": "d",
+    "solutionText": "Lets total number apple in basket = x Atq, 𝑥𝐶1 36𝐶1 = 𝑥 36 = x = 6 Total number of banana in basket = 36 – 6 = 30",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 12 - P&C and Probability (Q30)"
+  },
+  {
+    "id": "quant-permut-319-0031-prob",
+    "subject": "Quantitative Aptitude",
+    "chapter": "Probability",
+    "examTracks": [
+      "prelims",
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "Two coins and one die are thrown simultaneously, find probability of getting at least one head with no. 6?",
+    "options": {
+      "a": "0.333",
+      "b": "0.125",
+      "c": "0.250",
+      "d": "0.200",
+      "e": "0.800"
+    },
+    "correctOption": "c",
+    "solutionText": "𝐴𝑛𝑢𝑟𝑎𝑔 𝐴𝑛𝑖𝑙 𝐴𝑛𝑎𝑛𝑑 One particular piece out of seven can be selected in 7 ways & to second person it can be given in 6C3 Required number of ways = 3 ×7C1 ×6C3 = 7×20×3 = 420",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 12 - P&C and Probability (Q31)"
+  },
+  {
+    "id": "quant-permut-319-0032-prob",
+    "subject": "Quantitative Aptitude",
+    "chapter": "Probability",
+    "examTracks": [
+      "prelims",
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "Two dices are rolled simultaneously, then find the probability of getting a sum more than 8 and less than 10.",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": "",
+      "e": ""
+    },
+    "correctOption": "d",
+    "solutionText": "If we pick exactly 4 guavas, 6 mangoes and 7 pears from the basket, the total number of fruits picked from the basket will be 17. If one more fruit is picked from the basket, irrespective of what it is, it can be said that at least 5 guavas or at least 7 mangoes or at least 8 pears have been picked from the basket. Hence, required number of fruits=17+1=18",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 12 - P&C and Probability (Q32)"
+  },
+  {
+    "id": "quant-permut-319-0033-prob",
+    "subject": "Quantitative Aptitude",
+    "chapter": "Probability",
+    "examTracks": [
+      "prelims",
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "If two cards are drawn randomly from a pack of 52 cards, then find probability that at least one drawn card is king card.",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": "",
+      "e": ""
+    },
+    "correctOption": "b",
+    "solutionText": "Probability of not getting a blue ball in two consecutive trials= 25 = i.e. number of blue balls=15-9=6 probability of getting two green balls in two consecutive trials= 25 = i.e. number of green balls=3 so, the number of red balls=6 required probability= 15 × 15 × 15 × 3! =",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 12 - P&C and Probability (Q33)"
+  },
+  {
+    "id": "quant-permut-319-0034-prob",
+    "subject": "Quantitative Aptitude",
+    "chapter": "Probability",
+    "examTracks": [
+      "prelims",
+      "mains"
+    ],
+    "passage": null,
+    "questionText": "A box contains 5 red balls, 8 green balls and 10 pink balls. A ball is drawn at random from the box. Find the probability that the ball drawn is either red or green.",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": "",
+      "e": ""
+    },
+    "correctOption": "e",
+    "solutionText": "If we pick exactly 4 guavas, 5 mangoes, 6 oranges and 7 pears then total number of fruits picked from the basket will be 22. And when we further pick 1 more fruit irrespective of what it is, we have at least 5 guavas or at least 6 mangoes or at least 7 oranges or at least 8 pears. So the required minimum, number of fruits picked from the basket= 22+1=23",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "hasImage": false,
+    "imageFile": null,
+    "source": "Ace Quant - Ch 12 - P&C and Probability (Q34)"
   }
 ]

@@ -41,7 +41,7 @@ CHAPTER_SPECS = [
     ("Paragraph Based Questions", 369, 374, "Reading Comprehension", []),
     ("Column Based", 374, 396, "Sentence Improvement", []),
     ("Spelling Errors", 396, 403, "Spelling Correction", ["Misspelt Words"]),
-    ("Word Rearrangement", 403, 414, "Word Swap", ["Word Usage"]),
+    ("Word Rearrangement", 403, 414, "Word Swap", ["Word Usage", "Word Formation"]),
     ("Miscellaneous", 414, 441, "Error Detection", ["Spotting Errors"]),
     ("Phrasal Verb", 474, 479, "Idioms and Phrases", ["Phrases and Idioms"]),
     ("Tenses", 2, 15, "Tenses", ["Grammar"]),

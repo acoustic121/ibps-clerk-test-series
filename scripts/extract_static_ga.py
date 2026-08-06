@@ -188,7 +188,24 @@ def main():
         }
         out_data.append(out_item)
         
-    print(f"Extracted {len(out_data)} Static GA questions. Skipped: {len(skipped)}")
+        if ch_name == "GK Updates":
+            ga_aliases = [
+                "National & International Current Affairs",
+                "Central Government Schemes",
+                "Banking and Financial Awareness",
+                "Recent RBI Circulars-Based Questions",
+                "Business & Economy Related News",
+                "Important Appointments",
+                "Union Budget",
+                "Prime Minister Schemes"
+            ]
+            for idx, alias in enumerate(ga_aliases):
+                alias_item = dict(out_item)
+                alias_item["id"] = f"ga-stat-{qnum:04d}-a{idx}"
+                alias_item["chapter"] = alias
+                out_data.append(alias_item)
+
+    print(f"Extracted {len(out_data)} Static GA questions (including aliases). Skipped: {len(skipped)}")
     if skipped:
         print("Skipped summary:", skipped[:10])
         

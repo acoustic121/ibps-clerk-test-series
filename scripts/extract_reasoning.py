@@ -248,15 +248,28 @@ def main():
         all_reas_questions.extend(ch_q)
         print(f"Extracted {len(ch_q):3d} questions for [{ch_name}] ({source_label})")
 
-    ds_mains = []
-    for q in all_reas_questions:
+    alias_questions = []
+    for q in list(all_reas_questions):
         if q["chapter"] == "Distance and Direction":
+            for target_ch, target_tracks in [("Direction Sense", ["mains"]), ("Distance", ["mains"])]:
+                q_copy = dict(q)
+                q_copy["id"] = f"{q['id']}-{target_ch.lower()[:4]}"
+                q_copy["chapter"] = target_ch
+                q_copy["examTracks"] = target_tracks
+                alias_questions.append(q_copy)
+        elif q["chapter"] == "Inequalities":
             q_copy = dict(q)
-            q_copy["id"] = q["id"].replace("reas-dista-", "reas-dirse-")
-            q_copy["chapter"] = "Direction Sense"
+            q_copy["id"] = f"{q['id']}-coded"
+            q_copy["chapter"] = "Coded Inequalities"
             q_copy["examTracks"] = ["mains"]
-            ds_mains.append(q_copy)
-    all_reas_questions.extend(ds_mains)
+            alias_questions.append(q_copy)
+        elif q["chapter"] == "Input-Output":
+            q_copy = dict(q)
+            q_copy["id"] = f"{q['id']}-machine"
+            q_copy["chapter"] = "Machine Input-Output"
+            q_copy["examTracks"] = ["mains"]
+            alias_questions.append(q_copy)
+    all_reas_questions.extend(alias_questions)
 
     print(f"\nTotal Reasoning questions extracted: {len(all_reas_questions)}")
     

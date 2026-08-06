@@ -227,7 +227,24 @@ def main():
         all_quant_questions.extend(ch_q)
         print(f"Extracted {len(ch_q):3d} questions for [{ch_name}] ({source_label})")
 
-    print(f"\nTotal Quant questions extracted: {len(all_quant_questions)}")
+    alias_questions = []
+    for q in list(all_quant_questions):
+        if q["chapter"] == "Permutation and Combination":
+            q_copy = dict(q)
+            q_copy["id"] = f"{q['id']}-prob"
+            q_copy["chapter"] = "Probability"
+            alias_questions.append(q_copy)
+        elif q["chapter"] == "Simplification / Approximation":
+            # Emit Simplification for Mains Reasoning & Computer Aptitude
+            q_copy = dict(q)
+            q_copy["id"] = f"{q['id']}-simpl"
+            q_copy["chapter"] = "Simplification"
+            q_copy["subject"] = "Reasoning & Computer Aptitude"
+            q_copy["examTracks"] = ["mains"]
+            alias_questions.append(q_copy)
+    all_quant_questions.extend(alias_questions)
+
+    print(f"\nTotal Quant questions extracted (including aliases): {len(all_quant_questions)}")
     
     with open(OUT_PATH, "w", encoding="utf-8") as f:
         json.dump(all_quant_questions, f, indent=2, ensure_ascii=False)
