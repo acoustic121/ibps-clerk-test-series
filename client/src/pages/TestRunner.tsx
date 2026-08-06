@@ -5,6 +5,8 @@ import type { TestSession } from "../types";
 
 type QStatus = "not-visited" | "answered" | "not-answered" | "marked" | "marked-answered";
 
+import { FormattedText } from "../components/FormattedText";
+
 function formatTime(seconds: number) {
   const m = Math.floor(seconds / 60)
     .toString()
@@ -29,29 +31,31 @@ export default function TestRunner() {
   const [visited, setVisited] = useState<Set<string>>(new Set());
   const [marked, setMarked] = useState<Set<string>>(new Set());
   const [secondsLeft, setSecondsLeft] = useState<number | null>(null);
-  const [confirmOpen, setConfirmOpen] = useState(false);
   const [submitting, setSubmitting] = useState(false);
-  const startedAt = useRef<number>(Date.now());
-  const autoSubmitted = useRef(false);
+  const [confirmOpen, setConfirmOpen] = useState(false);
+
+  const currentQuestion = session?.questions[index] ?? null;
 
   useEffect(() => {
     if (!testId) return;
     getTest(testId)
-      .then((s) => {
-        setSession(s);
-        if (s.timed && s.durationMinutes) setSecondsLeft(s.durationMinutes * 60);
-        startedAt.current = Date.now();
+      .then((res) => {
+        setSession(res);
+        if (res.durationMinutes && res.durationMinutes > 0) {
+          setSecondsLeft(res.durationMinutes * 60);
+        }
       })
-      .catch((e) => setError(e.message));
+      .catch((err) => setError(err.message || "Failed to load test"));
   }, [testId]);
-
-  const currentQuestion = session?.questions[index] ?? null;
 
   useEffect(() => {
     if (currentQuestion) {
       setVisited((prev) => new Set(prev).add(currentQuestion.id));
     }
   }, [currentQuestion]);
+
+  const startedAt = useRef<number>(Date.now());
+  const autoSubmitted = useRef(false);
 
   const doSubmit = useCallback(async () => {
     if (!session || submitting) return;
@@ -133,12 +137,12 @@ export default function TestRunner() {
           {currentQuestion.passage && (
             <div className="passage-panel">
               <div className="passage-label">Passage</div>
-              <p>{currentQuestion.passage}</p>
+              <p><FormattedText text={currentQuestion.passage} /></p>
             </div>
           )}
           <div className="question-panel">
             <div className="question-text">
-              <span className="q-number">Q{index + 1}.</span> {currentQuestion.questionText}
+              <span className="q-number">Q{index + 1}.</span> <FormattedText text={currentQuestion.questionText} />
             </div>
             {currentQuestion.hasImage && currentQuestion.imagePath && (
               <img className="question-image" src={currentQuestion.imagePath} alt="question figure" />
@@ -155,7 +159,7 @@ export default function TestRunner() {
                       onChange={() => setAnswers((prev) => ({ ...prev, [currentQuestion.id]: letter }))}
                     />
                     <span className="option-letter">{letter}</span>
-                    <span className="option-text">{text}</span>
+                    <span className="option-text"><FormattedText text={text} /></span>
                   </label>
                 );
               })}

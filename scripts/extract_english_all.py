@@ -166,6 +166,26 @@ def parse_questions_and_blocks(lines):
     finalize_question()
     return questions
 
+def get_page_text_with_bold(page):
+    page_dict = page.get_text("dict")
+    lines_out = []
+    for b in page_dict.get("blocks", []):
+        if "lines" in b:
+            for line in b["lines"]:
+                line_str = ""
+                for span in line["spans"]:
+                    text = span["text"]
+                    font = span["font"]
+                    flags = span["flags"]
+                    is_bold = ("bold" in font.lower()) or (flags & 2 != 0) or (font.endswith("-Bold"))
+                    cleaned_t = text.strip()
+                    if is_bold and cleaned_t and not re.match(r"^\d{1,3}\.$", cleaned_t) and not re.match(r"^\(\d+\s*[-–]\s*\d+\)$", cleaned_t) and cleaned_t not in ["Directions", "Directions:", "Direction"]:
+                        line_str += f"<b>{text}</b>"
+                    else:
+                        line_str += text
+                lines_out.append(line_str)
+    return "\n".join(lines_out)
+
 def extract_chapter(doc, spec):
     pdf_ch, start_p, end_p, primary_syll, aliases = spec
     
@@ -174,7 +194,7 @@ def extract_chapter(doc, spec):
     in_solutions = False
 
     for pno in range(start_p - 1, end_p - 1):
-        lines = clean_lines(doc[pno].get_text())
+        lines = clean_lines(get_page_text_with_bold(doc[pno]))
         for line in lines:
             if SOLUTIONS_HEADING_RE.match(line) or line.strip() == "Solutions" or line.strip() == "SOLUTIONS":
                 in_solutions = True

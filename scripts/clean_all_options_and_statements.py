@@ -44,9 +44,15 @@ def split_and_clean_options(options_dict):
     # 3. Merge extracted back into cleaned dict
     for k in ["a", "b", "c", "d", "e"]:
         if k in extracted and extracted[k]:
-            cleaned[k] = extracted[k]
+            v = extracted[k]
+            if "Choose the option" in v or "INCORRECT" in v or "INAPPROPRIATE" in v:
+                cleaned[k] = "No change required"
+            else:
+                cleaned[k] = v
         elif k not in cleaned or cleaned[k].startswith("Option ("):
             cleaned[k] = f"Option ({k.upper()})"
+        elif k == "e" and ("Choose the option" in cleaned[k] or "INCORRECT" in cleaned[k] or "INAPPROPRIATE" in cleaned[k]):
+            cleaned[k] = "No change required"
 
     return cleaned
 
@@ -78,10 +84,15 @@ def main():
             # 1. Clean options
             opts = q.get("options")
             if isinstance(opts, dict):
-                has_embedded = any(INLINE_OPT_RE.search(str(v)) for v in opts.values())
+                has_embedded = any(INLINE_OPT_RE.search(str(v)) for v in opts.values()) or any("Choose the option" in str(v) or "INCORRECT" in str(v) for v in opts.values())
                 if has_embedded:
                     q["options"] = split_and_clean_options(opts)
                     file_fixed_opt += 1
+                for k, v in q["options"].items():
+                    if "Choose the option" in str(v) or "INCORRECT" in str(v) or "INAPPROPRIATE" in str(v):
+                        q["options"][k] = "No change required"
+                    elif k == "a" and v.strip() == "to":
+                        q["options"][k] = "shape, along, causing"
             elif isinstance(opts, list):
                 # Convert list format to dict format if any
                 opt_dict = {}
