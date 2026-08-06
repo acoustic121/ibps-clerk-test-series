@@ -801,10 +801,11 @@
     "passage": null,
     "questionText": "Who is the governor of Sikkim?",
     "options": {
-      "a": "Keshari Nath Tripathi (b) Acharya Dev Vrat",
+      "a": "Keshari Nath Tripathi",
       "c": "Shri Ganga Prasad",
       "d": "V.P. Singh Badnore",
-      "e": "Tathagata Roy"
+      "e": "Tathagata Roy",
+      "b": "Acharya Dev Vrat"
     },
     "correctOption": "c",
     "solutionText": "Ganga Prasad is an Indian politician who is currently the Governor of the state of Sikkim and former Governor of Meghalaya.",
@@ -824,10 +825,11 @@
     "passage": null,
     "questionText": "Who is the governor of Sikkim?",
     "options": {
-      "a": "Keshari Nath Tripathi (b) Acharya Dev Vrat",
+      "a": "Keshari Nath Tripathi",
       "c": "Shri Ganga Prasad",
       "d": "V.P. Singh Badnore",
-      "e": "Tathagata Roy"
+      "e": "Tathagata Roy",
+      "b": "Acharya Dev Vrat"
     },
     "correctOption": "c",
     "solutionText": "Ganga Prasad is an Indian politician who is currently the Governor of the state of Sikkim and former Governor of Meghalaya.",
@@ -847,10 +849,11 @@
     "passage": null,
     "questionText": "Who is the governor of Sikkim?",
     "options": {
-      "a": "Keshari Nath Tripathi (b) Acharya Dev Vrat",
+      "a": "Keshari Nath Tripathi",
       "c": "Shri Ganga Prasad",
       "d": "V.P. Singh Badnore",
-      "e": "Tathagata Roy"
+      "e": "Tathagata Roy",
+      "b": "Acharya Dev Vrat"
     },
     "correctOption": "c",
     "solutionText": "Ganga Prasad is an Indian politician who is currently the Governor of the state of Sikkim and former Governor of Meghalaya.",
@@ -870,10 +873,11 @@
     "passage": null,
     "questionText": "Who is the governor of Sikkim?",
     "options": {
-      "a": "Keshari Nath Tripathi (b) Acharya Dev Vrat",
+      "a": "Keshari Nath Tripathi",
       "c": "Shri Ganga Prasad",
       "d": "V.P. Singh Badnore",
-      "e": "Tathagata Roy"
+      "e": "Tathagata Roy",
+      "b": "Acharya Dev Vrat"
     },
     "correctOption": "c",
     "solutionText": "Ganga Prasad is an Indian politician who is currently the Governor of the state of Sikkim and former Governor of Meghalaya.",
@@ -893,10 +897,11 @@
     "passage": null,
     "questionText": "Who is the governor of Sikkim?",
     "options": {
-      "a": "Keshari Nath Tripathi (b) Acharya Dev Vrat",
+      "a": "Keshari Nath Tripathi",
       "c": "Shri Ganga Prasad",
       "d": "V.P. Singh Badnore",
-      "e": "Tathagata Roy"
+      "e": "Tathagata Roy",
+      "b": "Acharya Dev Vrat"
     },
     "correctOption": "c",
     "solutionText": "Ganga Prasad is an Indian politician who is currently the Governor of the state of Sikkim and former Governor of Meghalaya.",
@@ -916,10 +921,11 @@
     "passage": null,
     "questionText": "Who is the governor of Sikkim?",
     "options": {
-      "a": "Keshari Nath Tripathi (b) Acharya Dev Vrat",
+      "a": "Keshari Nath Tripathi",
       "c": "Shri Ganga Prasad",
       "d": "V.P. Singh Badnore",
-      "e": "Tathagata Roy"
+      "e": "Tathagata Roy",
+      "b": "Acharya Dev Vrat"
     },
     "correctOption": "c",
     "solutionText": "Ganga Prasad is an Indian politician who is currently the Governor of the state of Sikkim and former Governor of Meghalaya.",
@@ -939,10 +945,11 @@
     "passage": null,
     "questionText": "Who is the governor of Sikkim?",
     "options": {
-      "a": "Keshari Nath Tripathi (b) Acharya Dev Vrat",
+      "a": "Keshari Nath Tripathi",
       "c": "Shri Ganga Prasad",
       "d": "V.P. Singh Badnore",
-      "e": "Tathagata Roy"
+      "e": "Tathagata Roy",
+      "b": "Acharya Dev Vrat"
     },
     "correctOption": "c",
     "solutionText": "Ganga Prasad is an Indian politician who is currently the Governor of the state of Sikkim and former Governor of Meghalaya.",
@@ -962,10 +969,11 @@
     "passage": null,
     "questionText": "Who is the governor of Sikkim?",
     "options": {
-      "a": "Keshari Nath Tripathi (b) Acharya Dev Vrat",
+      "a": "Keshari Nath Tripathi",
       "c": "Shri Ganga Prasad",
       "d": "V.P. Singh Badnore",
-      "e": "Tathagata Roy"
+      "e": "Tathagata Roy",
+      "b": "Acharya Dev Vrat"
     },
     "correctOption": "c",
     "solutionText": "Ganga Prasad is an Indian politician who is currently the Governor of the state of Sikkim and former Governor of Meghalaya.",
@@ -985,10 +993,11 @@
     "passage": null,
     "questionText": "Who is the governor of Sikkim?",
     "options": {
-      "a": "Keshari Nath Tripathi (b) Acharya Dev Vrat",
+      "a": "Keshari Nath Tripathi",
       "c": "Shri Ganga Prasad",
       "d": "V.P. Singh Badnore",
-      "e": "Tathagata Roy"
+      "e": "Tathagata Roy",
+      "b": "Acharya Dev Vrat"
     },
     "correctOption": "c",
     "solutionText": "Ganga Prasad is an Indian politician who is currently the Governor of the state of Sikkim and former Governor of Meghalaya.",
@@ -1417,9 +1426,10 @@
     "questionText": "Ottawa is the Capital of which of the following country?",
     "options": {
       "a": "Netherlands",
-      "b": "Australia (c) Austria",
+      "b": "Australia",
       "d": "Canada",
-      "e": "Ireland"
+      "e": "Ireland",
+      "c": "Austria"
     },
     "correctOption": "d",
     "solutionText": "Ottawa is the Capital of Canada. The Canadian dollar is the currency of Canada.",
@@ -1442,7 +1452,8 @@
       "a": "Nagpur",
       "b": "Kanpur",
       "c": "Rajkot",
-      "d": "Dharamshala (e) None"
+      "d": "Dharamshala",
+      "e": "None"
     },
     "correctOption": "c",
     "solutionText": "Saurashtra Cricket Association Stadium, also known as the Khandheri Cricket Stadium, is a cricket stadium in Rajkot, India.",
@@ -2137,7 +2148,8 @@
       "a": "Mumbai",
       "b": "New Delhi",
       "c": "Bangalore",
-      "d": "Dehradun (e) Chennai"
+      "d": "Dehradun",
+      "e": "Chennai"
     },
     "correctOption": "c",
     "solutionText": "The Indian Space Research Organisation, is the space agency of the Indian government headquartered in the city of Bangalore. Its vision is to \"harness space technology for national development\", while pursuing space science research and planetary exploration.",
@@ -2590,9 +2602,10 @@
     "questionText": "The traditional Bonderam festival is celebrated in which state?",
     "options": {
       "a": "Kerala",
-      "b": "Tamil Nadu (c) Goa",
+      "b": "Tamil Nadu",
       "d": "Maharashtra",
-      "e": "None of these"
+      "e": "None of these",
+      "c": "Goa"
     },
     "correctOption": "a",
     "solutionText": "Option (a) is the correct answer.",
@@ -2613,9 +2626,10 @@
     "questionText": "The traditional Bonderam festival is celebrated in which state?",
     "options": {
       "a": "Kerala",
-      "b": "Tamil Nadu (c) Goa",
+      "b": "Tamil Nadu",
       "d": "Maharashtra",
-      "e": "None of these"
+      "e": "None of these",
+      "c": "Goa"
     },
     "correctOption": "a",
     "solutionText": "Option (a) is the correct answer.",
@@ -2636,9 +2650,10 @@
     "questionText": "The traditional Bonderam festival is celebrated in which state?",
     "options": {
       "a": "Kerala",
-      "b": "Tamil Nadu (c) Goa",
+      "b": "Tamil Nadu",
       "d": "Maharashtra",
-      "e": "None of these"
+      "e": "None of these",
+      "c": "Goa"
     },
     "correctOption": "a",
     "solutionText": "Option (a) is the correct answer.",
@@ -2659,9 +2674,10 @@
     "questionText": "The traditional Bonderam festival is celebrated in which state?",
     "options": {
       "a": "Kerala",
-      "b": "Tamil Nadu (c) Goa",
+      "b": "Tamil Nadu",
       "d": "Maharashtra",
-      "e": "None of these"
+      "e": "None of these",
+      "c": "Goa"
     },
     "correctOption": "a",
     "solutionText": "Option (a) is the correct answer.",
@@ -2682,9 +2698,10 @@
     "questionText": "The traditional Bonderam festival is celebrated in which state?",
     "options": {
       "a": "Kerala",
-      "b": "Tamil Nadu (c) Goa",
+      "b": "Tamil Nadu",
       "d": "Maharashtra",
-      "e": "None of these"
+      "e": "None of these",
+      "c": "Goa"
     },
     "correctOption": "a",
     "solutionText": "Option (a) is the correct answer.",
@@ -2705,9 +2722,10 @@
     "questionText": "The traditional Bonderam festival is celebrated in which state?",
     "options": {
       "a": "Kerala",
-      "b": "Tamil Nadu (c) Goa",
+      "b": "Tamil Nadu",
       "d": "Maharashtra",
-      "e": "None of these"
+      "e": "None of these",
+      "c": "Goa"
     },
     "correctOption": "a",
     "solutionText": "Option (a) is the correct answer.",
@@ -2728,9 +2746,10 @@
     "questionText": "The traditional Bonderam festival is celebrated in which state?",
     "options": {
       "a": "Kerala",
-      "b": "Tamil Nadu (c) Goa",
+      "b": "Tamil Nadu",
       "d": "Maharashtra",
-      "e": "None of these"
+      "e": "None of these",
+      "c": "Goa"
     },
     "correctOption": "a",
     "solutionText": "Option (a) is the correct answer.",
@@ -2751,9 +2770,10 @@
     "questionText": "The traditional Bonderam festival is celebrated in which state?",
     "options": {
       "a": "Kerala",
-      "b": "Tamil Nadu (c) Goa",
+      "b": "Tamil Nadu",
       "d": "Maharashtra",
-      "e": "None of these"
+      "e": "None of these",
+      "c": "Goa"
     },
     "correctOption": "a",
     "solutionText": "Option (a) is the correct answer.",
@@ -2774,9 +2794,10 @@
     "questionText": "The traditional Bonderam festival is celebrated in which state?",
     "options": {
       "a": "Kerala",
-      "b": "Tamil Nadu (c) Goa",
+      "b": "Tamil Nadu",
       "d": "Maharashtra",
-      "e": "None of these"
+      "e": "None of these",
+      "c": "Goa"
     },
     "correctOption": "a",
     "solutionText": "Option (a) is the correct answer.",
@@ -2797,9 +2818,10 @@
     "questionText": "Dudhawa Dam is located in Dhamtari district of Chhattisgarh. It is built across the ___________ river in the village of Dudhawa?",
     "options": {
       "a": "Kanhar",
-      "b": "Shivnath  (c) Indravati",
+      "b": "Shivnath",
       "d": "Mahanadi",
-      "e": "Sabari"
+      "e": "Sabari",
+      "c": "Indravati"
     },
     "correctOption": "d",
     "solutionText": "Dudhawa Dam is located in Dhamtari district of Chhattisgarh in India. It is built across the Mahanadi river in the village of Dudhawa.",
@@ -2820,9 +2842,10 @@
     "questionText": "Parul Parmar is related to which sports?",
     "options": {
       "a": "Weightlifting",
-      "b": "Golf (c) Badminton",
+      "b": "Golf",
       "d": "Shooting",
-      "e": "Boxing"
+      "e": "Boxing",
+      "c": "Badminton"
     },
     "correctOption": "a",
     "solutionText": "India’s Parul Parmar defeated Thailand’s Wannaphatdee Kamtam in the finals of the women’s singles Standing Lower (SL3) to win gold in BWF Para-Badminton World Championships in Ulsan, South Korea.",
@@ -2843,9 +2866,10 @@
     "questionText": "Parul Parmar is related to which sports?",
     "options": {
       "a": "Weightlifting",
-      "b": "Golf (c) Badminton",
+      "b": "Golf",
       "d": "Shooting",
-      "e": "Boxing"
+      "e": "Boxing",
+      "c": "Badminton"
     },
     "correctOption": "a",
     "solutionText": "India’s Parul Parmar defeated Thailand’s Wannaphatdee Kamtam in the finals of the women’s singles Standing Lower (SL3) to win gold in BWF Para-Badminton World Championships in Ulsan, South Korea.",
@@ -2866,9 +2890,10 @@
     "questionText": "Parul Parmar is related to which sports?",
     "options": {
       "a": "Weightlifting",
-      "b": "Golf (c) Badminton",
+      "b": "Golf",
       "d": "Shooting",
-      "e": "Boxing"
+      "e": "Boxing",
+      "c": "Badminton"
     },
     "correctOption": "a",
     "solutionText": "India’s Parul Parmar defeated Thailand’s Wannaphatdee Kamtam in the finals of the women’s singles Standing Lower (SL3) to win gold in BWF Para-Badminton World Championships in Ulsan, South Korea.",
@@ -2889,9 +2914,10 @@
     "questionText": "Parul Parmar is related to which sports?",
     "options": {
       "a": "Weightlifting",
-      "b": "Golf (c) Badminton",
+      "b": "Golf",
       "d": "Shooting",
-      "e": "Boxing"
+      "e": "Boxing",
+      "c": "Badminton"
     },
     "correctOption": "a",
     "solutionText": "India’s Parul Parmar defeated Thailand’s Wannaphatdee Kamtam in the finals of the women’s singles Standing Lower (SL3) to win gold in BWF Para-Badminton World Championships in Ulsan, South Korea.",
@@ -2912,9 +2938,10 @@
     "questionText": "Parul Parmar is related to which sports?",
     "options": {
       "a": "Weightlifting",
-      "b": "Golf (c) Badminton",
+      "b": "Golf",
       "d": "Shooting",
-      "e": "Boxing"
+      "e": "Boxing",
+      "c": "Badminton"
     },
     "correctOption": "a",
     "solutionText": "India’s Parul Parmar defeated Thailand’s Wannaphatdee Kamtam in the finals of the women’s singles Standing Lower (SL3) to win gold in BWF Para-Badminton World Championships in Ulsan, South Korea.",
@@ -2935,9 +2962,10 @@
     "questionText": "Parul Parmar is related to which sports?",
     "options": {
       "a": "Weightlifting",
-      "b": "Golf (c) Badminton",
+      "b": "Golf",
       "d": "Shooting",
-      "e": "Boxing"
+      "e": "Boxing",
+      "c": "Badminton"
     },
     "correctOption": "a",
     "solutionText": "India’s Parul Parmar defeated Thailand’s Wannaphatdee Kamtam in the finals of the women’s singles Standing Lower (SL3) to win gold in BWF Para-Badminton World Championships in Ulsan, South Korea.",
@@ -2958,9 +2986,10 @@
     "questionText": "Parul Parmar is related to which sports?",
     "options": {
       "a": "Weightlifting",
-      "b": "Golf (c) Badminton",
+      "b": "Golf",
       "d": "Shooting",
-      "e": "Boxing"
+      "e": "Boxing",
+      "c": "Badminton"
     },
     "correctOption": "a",
     "solutionText": "India’s Parul Parmar defeated Thailand’s Wannaphatdee Kamtam in the finals of the women’s singles Standing Lower (SL3) to win gold in BWF Para-Badminton World Championships in Ulsan, South Korea.",
@@ -2981,9 +3010,10 @@
     "questionText": "Parul Parmar is related to which sports?",
     "options": {
       "a": "Weightlifting",
-      "b": "Golf (c) Badminton",
+      "b": "Golf",
       "d": "Shooting",
-      "e": "Boxing"
+      "e": "Boxing",
+      "c": "Badminton"
     },
     "correctOption": "a",
     "solutionText": "India’s Parul Parmar defeated Thailand’s Wannaphatdee Kamtam in the finals of the women’s singles Standing Lower (SL3) to win gold in BWF Para-Badminton World Championships in Ulsan, South Korea.",
@@ -3004,9 +3034,10 @@
     "questionText": "Parul Parmar is related to which sports?",
     "options": {
       "a": "Weightlifting",
-      "b": "Golf (c) Badminton",
+      "b": "Golf",
       "d": "Shooting",
-      "e": "Boxing"
+      "e": "Boxing",
+      "c": "Badminton"
     },
     "correctOption": "a",
     "solutionText": "India’s Parul Parmar defeated Thailand’s Wannaphatdee Kamtam in the finals of the women’s singles Standing Lower (SL3) to win gold in BWF Para-Badminton World Championships in Ulsan, South Korea.",
@@ -4061,7 +4092,8 @@
       "a": "New Delhi",
       "b": "Hyderabad",
       "c": "Mumbai",
-      "d": "Ahmedabad (e) Bangalore"
+      "d": "Ahmedabad",
+      "e": "Bangalore"
     },
     "correctOption": "a",
     "solutionText": "The Indian Institute of Foreign Trade (IIFT) is an autonomous public business school established in 1963 by the Government of India to help professionalize the country's foreign trade management and increase exports by developing human resources; generating, analysing and disseminating data; and conducting research. IIFT Delhi Centre is located in the Qutab Institutional Area in close vicinity of Jawaharlal Nehru University and the Indian Institute of Technology in New Delhi, India and is spread over 6 acres of land",
@@ -4586,9 +4618,10 @@
     "questionText": "Anjali Bhagwat is a professional Indian?",
     "options": {
       "a": "Cricketer",
-      "b": "Footballer (c) Shooter",
+      "b": "Footballer",
       "d": "Wrestler",
-      "e": "None of the above"
+      "e": "None of the above",
+      "c": "Shooter"
     },
     "correctOption": "a",
     "solutionText": "Anjali Bhagwat, in full Anjali Vedpathak Bhagwat, Indian rifle shooter who won the 2002 International Shooting Sport Federation (ISSF) Champion of Champions combined-air-rifle event to become the first Indian to win that competition.",
@@ -4609,9 +4642,10 @@
     "questionText": "Anjali Bhagwat is a professional Indian?",
     "options": {
       "a": "Cricketer",
-      "b": "Footballer (c) Shooter",
+      "b": "Footballer",
       "d": "Wrestler",
-      "e": "None of the above"
+      "e": "None of the above",
+      "c": "Shooter"
     },
     "correctOption": "a",
     "solutionText": "Anjali Bhagwat, in full Anjali Vedpathak Bhagwat, Indian rifle shooter who won the 2002 International Shooting Sport Federation (ISSF) Champion of Champions combined-air-rifle event to become the first Indian to win that competition.",
@@ -4632,9 +4666,10 @@
     "questionText": "Anjali Bhagwat is a professional Indian?",
     "options": {
       "a": "Cricketer",
-      "b": "Footballer (c) Shooter",
+      "b": "Footballer",
       "d": "Wrestler",
-      "e": "None of the above"
+      "e": "None of the above",
+      "c": "Shooter"
     },
     "correctOption": "a",
     "solutionText": "Anjali Bhagwat, in full Anjali Vedpathak Bhagwat, Indian rifle shooter who won the 2002 International Shooting Sport Federation (ISSF) Champion of Champions combined-air-rifle event to become the first Indian to win that competition.",
@@ -4655,9 +4690,10 @@
     "questionText": "Anjali Bhagwat is a professional Indian?",
     "options": {
       "a": "Cricketer",
-      "b": "Footballer (c) Shooter",
+      "b": "Footballer",
       "d": "Wrestler",
-      "e": "None of the above"
+      "e": "None of the above",
+      "c": "Shooter"
     },
     "correctOption": "a",
     "solutionText": "Anjali Bhagwat, in full Anjali Vedpathak Bhagwat, Indian rifle shooter who won the 2002 International Shooting Sport Federation (ISSF) Champion of Champions combined-air-rifle event to become the first Indian to win that competition.",
@@ -4678,9 +4714,10 @@
     "questionText": "Anjali Bhagwat is a professional Indian?",
     "options": {
       "a": "Cricketer",
-      "b": "Footballer (c) Shooter",
+      "b": "Footballer",
       "d": "Wrestler",
-      "e": "None of the above"
+      "e": "None of the above",
+      "c": "Shooter"
     },
     "correctOption": "a",
     "solutionText": "Anjali Bhagwat, in full Anjali Vedpathak Bhagwat, Indian rifle shooter who won the 2002 International Shooting Sport Federation (ISSF) Champion of Champions combined-air-rifle event to become the first Indian to win that competition.",
@@ -4701,9 +4738,10 @@
     "questionText": "Anjali Bhagwat is a professional Indian?",
     "options": {
       "a": "Cricketer",
-      "b": "Footballer (c) Shooter",
+      "b": "Footballer",
       "d": "Wrestler",
-      "e": "None of the above"
+      "e": "None of the above",
+      "c": "Shooter"
     },
     "correctOption": "a",
     "solutionText": "Anjali Bhagwat, in full Anjali Vedpathak Bhagwat, Indian rifle shooter who won the 2002 International Shooting Sport Federation (ISSF) Champion of Champions combined-air-rifle event to become the first Indian to win that competition.",
@@ -4724,9 +4762,10 @@
     "questionText": "Anjali Bhagwat is a professional Indian?",
     "options": {
       "a": "Cricketer",
-      "b": "Footballer (c) Shooter",
+      "b": "Footballer",
       "d": "Wrestler",
-      "e": "None of the above"
+      "e": "None of the above",
+      "c": "Shooter"
     },
     "correctOption": "a",
     "solutionText": "Anjali Bhagwat, in full Anjali Vedpathak Bhagwat, Indian rifle shooter who won the 2002 International Shooting Sport Federation (ISSF) Champion of Champions combined-air-rifle event to become the first Indian to win that competition.",
@@ -4747,9 +4786,10 @@
     "questionText": "Anjali Bhagwat is a professional Indian?",
     "options": {
       "a": "Cricketer",
-      "b": "Footballer (c) Shooter",
+      "b": "Footballer",
       "d": "Wrestler",
-      "e": "None of the above"
+      "e": "None of the above",
+      "c": "Shooter"
     },
     "correctOption": "a",
     "solutionText": "Anjali Bhagwat, in full Anjali Vedpathak Bhagwat, Indian rifle shooter who won the 2002 International Shooting Sport Federation (ISSF) Champion of Champions combined-air-rifle event to become the first Indian to win that competition.",
@@ -4770,9 +4810,10 @@
     "questionText": "Anjali Bhagwat is a professional Indian?",
     "options": {
       "a": "Cricketer",
-      "b": "Footballer (c) Shooter",
+      "b": "Footballer",
       "d": "Wrestler",
-      "e": "None of the above"
+      "e": "None of the above",
+      "c": "Shooter"
     },
     "correctOption": "a",
     "solutionText": "Anjali Bhagwat, in full Anjali Vedpathak Bhagwat, Indian rifle shooter who won the 2002 International Shooting Sport Federation (ISSF) Champion of Champions combined-air-rifle event to become the first Indian to win that competition.",
@@ -4793,9 +4834,10 @@
     "questionText": "The headquarters of UNESCO is in",
     "options": {
       "a": "New York",
-      "b": "The Hague  (c) Paris",
+      "b": "The Hague",
       "d": "Moscow",
-      "e": "Geneva"
+      "e": "Geneva",
+      "c": "Paris"
     },
     "correctOption": "a",
     "solutionText": "Located on the Place de Fontenoy, in Paris, the main building which houses the Headquarters of UNESCO was inaugurated on 3 November 1958. The Y-shaped design was invented by three architects of different nationalities under the direction of an international committee.",
@@ -5704,9 +5746,10 @@
     "questionText": "The SEAC's function on the principle of collective responsibility. What is the meaning of \"A\" in SEAC?",
     "options": {
       "a": "Agriculture",
-      "b": "Appraisal (c) Apeared",
+      "b": "Appraisal",
       "d": "Authority",
-      "e": "Approval"
+      "e": "Approval",
+      "c": "Apeared"
     },
     "correctOption": "b",
     "solutionText": "The State Expert Appraisal Committee (SEAC)'s function on the principle of collective responsibility. The Chairperson shall endeavour to reach a consensus in each case, and if consensus cannot be reached, the view of the majority shall prevail.",
@@ -5727,9 +5770,10 @@
     "questionText": "The SEAC's function on the principle of collective responsibility. What is the meaning of \"A\" in SEAC?",
     "options": {
       "a": "Agriculture",
-      "b": "Appraisal (c) Apeared",
+      "b": "Appraisal",
       "d": "Authority",
-      "e": "Approval"
+      "e": "Approval",
+      "c": "Apeared"
     },
     "correctOption": "b",
     "solutionText": "The State Expert Appraisal Committee (SEAC)'s function on the principle of collective responsibility. The Chairperson shall endeavour to reach a consensus in each case, and if consensus cannot be reached, the view of the majority shall prevail.",
@@ -5750,9 +5794,10 @@
     "questionText": "The SEAC's function on the principle of collective responsibility. What is the meaning of \"A\" in SEAC?",
     "options": {
       "a": "Agriculture",
-      "b": "Appraisal (c) Apeared",
+      "b": "Appraisal",
       "d": "Authority",
-      "e": "Approval"
+      "e": "Approval",
+      "c": "Apeared"
     },
     "correctOption": "b",
     "solutionText": "The State Expert Appraisal Committee (SEAC)'s function on the principle of collective responsibility. The Chairperson shall endeavour to reach a consensus in each case, and if consensus cannot be reached, the view of the majority shall prevail.",
@@ -5773,9 +5818,10 @@
     "questionText": "The SEAC's function on the principle of collective responsibility. What is the meaning of \"A\" in SEAC?",
     "options": {
       "a": "Agriculture",
-      "b": "Appraisal (c) Apeared",
+      "b": "Appraisal",
       "d": "Authority",
-      "e": "Approval"
+      "e": "Approval",
+      "c": "Apeared"
     },
     "correctOption": "b",
     "solutionText": "The State Expert Appraisal Committee (SEAC)'s function on the principle of collective responsibility. The Chairperson shall endeavour to reach a consensus in each case, and if consensus cannot be reached, the view of the majority shall prevail.",
@@ -5796,9 +5842,10 @@
     "questionText": "The SEAC's function on the principle of collective responsibility. What is the meaning of \"A\" in SEAC?",
     "options": {
       "a": "Agriculture",
-      "b": "Appraisal (c) Apeared",
+      "b": "Appraisal",
       "d": "Authority",
-      "e": "Approval"
+      "e": "Approval",
+      "c": "Apeared"
     },
     "correctOption": "b",
     "solutionText": "The State Expert Appraisal Committee (SEAC)'s function on the principle of collective responsibility. The Chairperson shall endeavour to reach a consensus in each case, and if consensus cannot be reached, the view of the majority shall prevail.",
@@ -5819,9 +5866,10 @@
     "questionText": "The SEAC's function on the principle of collective responsibility. What is the meaning of \"A\" in SEAC?",
     "options": {
       "a": "Agriculture",
-      "b": "Appraisal (c) Apeared",
+      "b": "Appraisal",
       "d": "Authority",
-      "e": "Approval"
+      "e": "Approval",
+      "c": "Apeared"
     },
     "correctOption": "b",
     "solutionText": "The State Expert Appraisal Committee (SEAC)'s function on the principle of collective responsibility. The Chairperson shall endeavour to reach a consensus in each case, and if consensus cannot be reached, the view of the majority shall prevail.",
@@ -5842,9 +5890,10 @@
     "questionText": "The SEAC's function on the principle of collective responsibility. What is the meaning of \"A\" in SEAC?",
     "options": {
       "a": "Agriculture",
-      "b": "Appraisal (c) Apeared",
+      "b": "Appraisal",
       "d": "Authority",
-      "e": "Approval"
+      "e": "Approval",
+      "c": "Apeared"
     },
     "correctOption": "b",
     "solutionText": "The State Expert Appraisal Committee (SEAC)'s function on the principle of collective responsibility. The Chairperson shall endeavour to reach a consensus in each case, and if consensus cannot be reached, the view of the majority shall prevail.",
@@ -5865,9 +5914,10 @@
     "questionText": "The SEAC's function on the principle of collective responsibility. What is the meaning of \"A\" in SEAC?",
     "options": {
       "a": "Agriculture",
-      "b": "Appraisal (c) Apeared",
+      "b": "Appraisal",
       "d": "Authority",
-      "e": "Approval"
+      "e": "Approval",
+      "c": "Apeared"
     },
     "correctOption": "b",
     "solutionText": "The State Expert Appraisal Committee (SEAC)'s function on the principle of collective responsibility. The Chairperson shall endeavour to reach a consensus in each case, and if consensus cannot be reached, the view of the majority shall prevail.",
@@ -5888,9 +5938,10 @@
     "questionText": "The SEAC's function on the principle of collective responsibility. What is the meaning of \"A\" in SEAC?",
     "options": {
       "a": "Agriculture",
-      "b": "Appraisal (c) Apeared",
+      "b": "Appraisal",
       "d": "Authority",
-      "e": "Approval"
+      "e": "Approval",
+      "c": "Apeared"
     },
     "correctOption": "b",
     "solutionText": "The State Expert Appraisal Committee (SEAC)'s function on the principle of collective responsibility. The Chairperson shall endeavour to reach a consensus in each case, and if consensus cannot be reached, the view of the majority shall prevail.",
@@ -5983,9 +6034,10 @@
     "questionText": "Nobel Prize are distributed annually at",
     "options": {
       "a": "Manila",
-      "b": "Stockholm (c) Geneva",
+      "b": "Stockholm",
       "d": "New York",
-      "e": "None of these"
+      "e": "None of these",
+      "c": "Geneva"
     },
     "correctOption": "b",
     "solutionText": "Option (b) is the correct answer.",
@@ -6030,9 +6082,10 @@
     "questionText": "The Government of India has launched the AMRUT with the aim of providing basic civic amenities. What is the meaning of \"U\" in AMRUT?",
     "options": {
       "a": "Useful",
-      "b": "Universal (c) Unique",
+      "b": "Universal",
       "d": "Urban",
-      "e": "Uniform"
+      "e": "Uniform",
+      "c": "Unique"
     },
     "correctOption": "d",
     "solutionText": "The Government of India has launched the Atal Mission for Rejuvenation and Urban Transformation (AMRUT) with the aim of providing basic civic amenities.",
@@ -6053,9 +6106,10 @@
     "questionText": "The Government of India has launched the AMRUT with the aim of providing basic civic amenities. What is the meaning of \"U\" in AMRUT?",
     "options": {
       "a": "Useful",
-      "b": "Universal (c) Unique",
+      "b": "Universal",
       "d": "Urban",
-      "e": "Uniform"
+      "e": "Uniform",
+      "c": "Unique"
     },
     "correctOption": "d",
     "solutionText": "The Government of India has launched the Atal Mission for Rejuvenation and Urban Transformation (AMRUT) with the aim of providing basic civic amenities.",
@@ -6076,9 +6130,10 @@
     "questionText": "The Government of India has launched the AMRUT with the aim of providing basic civic amenities. What is the meaning of \"U\" in AMRUT?",
     "options": {
       "a": "Useful",
-      "b": "Universal (c) Unique",
+      "b": "Universal",
       "d": "Urban",
-      "e": "Uniform"
+      "e": "Uniform",
+      "c": "Unique"
     },
     "correctOption": "d",
     "solutionText": "The Government of India has launched the Atal Mission for Rejuvenation and Urban Transformation (AMRUT) with the aim of providing basic civic amenities.",
@@ -6099,9 +6154,10 @@
     "questionText": "The Government of India has launched the AMRUT with the aim of providing basic civic amenities. What is the meaning of \"U\" in AMRUT?",
     "options": {
       "a": "Useful",
-      "b": "Universal (c) Unique",
+      "b": "Universal",
       "d": "Urban",
-      "e": "Uniform"
+      "e": "Uniform",
+      "c": "Unique"
     },
     "correctOption": "d",
     "solutionText": "The Government of India has launched the Atal Mission for Rejuvenation and Urban Transformation (AMRUT) with the aim of providing basic civic amenities.",
@@ -6122,9 +6178,10 @@
     "questionText": "The Government of India has launched the AMRUT with the aim of providing basic civic amenities. What is the meaning of \"U\" in AMRUT?",
     "options": {
       "a": "Useful",
-      "b": "Universal (c) Unique",
+      "b": "Universal",
       "d": "Urban",
-      "e": "Uniform"
+      "e": "Uniform",
+      "c": "Unique"
     },
     "correctOption": "d",
     "solutionText": "The Government of India has launched the Atal Mission for Rejuvenation and Urban Transformation (AMRUT) with the aim of providing basic civic amenities.",
@@ -6145,9 +6202,10 @@
     "questionText": "The Government of India has launched the AMRUT with the aim of providing basic civic amenities. What is the meaning of \"U\" in AMRUT?",
     "options": {
       "a": "Useful",
-      "b": "Universal (c) Unique",
+      "b": "Universal",
       "d": "Urban",
-      "e": "Uniform"
+      "e": "Uniform",
+      "c": "Unique"
     },
     "correctOption": "d",
     "solutionText": "The Government of India has launched the Atal Mission for Rejuvenation and Urban Transformation (AMRUT) with the aim of providing basic civic amenities.",
@@ -6168,9 +6226,10 @@
     "questionText": "The Government of India has launched the AMRUT with the aim of providing basic civic amenities. What is the meaning of \"U\" in AMRUT?",
     "options": {
       "a": "Useful",
-      "b": "Universal (c) Unique",
+      "b": "Universal",
       "d": "Urban",
-      "e": "Uniform"
+      "e": "Uniform",
+      "c": "Unique"
     },
     "correctOption": "d",
     "solutionText": "The Government of India has launched the Atal Mission for Rejuvenation and Urban Transformation (AMRUT) with the aim of providing basic civic amenities.",
@@ -6191,9 +6250,10 @@
     "questionText": "The Government of India has launched the AMRUT with the aim of providing basic civic amenities. What is the meaning of \"U\" in AMRUT?",
     "options": {
       "a": "Useful",
-      "b": "Universal (c) Unique",
+      "b": "Universal",
       "d": "Urban",
-      "e": "Uniform"
+      "e": "Uniform",
+      "c": "Unique"
     },
     "correctOption": "d",
     "solutionText": "The Government of India has launched the Atal Mission for Rejuvenation and Urban Transformation (AMRUT) with the aim of providing basic civic amenities.",
@@ -6214,9 +6274,10 @@
     "questionText": "The Government of India has launched the AMRUT with the aim of providing basic civic amenities. What is the meaning of \"U\" in AMRUT?",
     "options": {
       "a": "Useful",
-      "b": "Universal (c) Unique",
+      "b": "Universal",
       "d": "Urban",
-      "e": "Uniform"
+      "e": "Uniform",
+      "c": "Unique"
     },
     "correctOption": "d",
     "solutionText": "The Government of India has launched the Atal Mission for Rejuvenation and Urban Transformation (AMRUT) with the aim of providing basic civic amenities.",
@@ -6333,9 +6394,10 @@
     "questionText": "Vienna is the capital and largest city of-",
     "options": {
       "a": "Canada",
-      "b": "Australia (c) Yemen",
+      "b": "Australia",
       "d": "Russia",
-      "e": "Austria"
+      "e": "Austria",
+      "c": "Yemen"
     },
     "correctOption": "e",
     "solutionText": "Vienna is the capital and largest city of Austria and one of the nine states of Austria.",
@@ -6428,9 +6490,10 @@
     "questionText": "Sanjeev Stalin is related to which game?",
     "options": {
       "a": "Cricket",
-      "b": "Football (c) Tennis",
+      "b": "Football",
       "d": "Archery",
-      "e": "Wrestling"
+      "e": "Wrestling",
+      "c": "Tennis"
     },
     "correctOption": "b",
     "solutionText": "Sanjeev Stalin is an Indian professional footballer who plays as a defender for Indian Arrows in the I-League.",
@@ -6451,9 +6514,10 @@
     "questionText": "Sanjeev Stalin is related to which game?",
     "options": {
       "a": "Cricket",
-      "b": "Football (c) Tennis",
+      "b": "Football",
       "d": "Archery",
-      "e": "Wrestling"
+      "e": "Wrestling",
+      "c": "Tennis"
     },
     "correctOption": "b",
     "solutionText": "Sanjeev Stalin is an Indian professional footballer who plays as a defender for Indian Arrows in the I-League.",
@@ -6474,9 +6538,10 @@
     "questionText": "Sanjeev Stalin is related to which game?",
     "options": {
       "a": "Cricket",
-      "b": "Football (c) Tennis",
+      "b": "Football",
       "d": "Archery",
-      "e": "Wrestling"
+      "e": "Wrestling",
+      "c": "Tennis"
     },
     "correctOption": "b",
     "solutionText": "Sanjeev Stalin is an Indian professional footballer who plays as a defender for Indian Arrows in the I-League.",
@@ -6497,9 +6562,10 @@
     "questionText": "Sanjeev Stalin is related to which game?",
     "options": {
       "a": "Cricket",
-      "b": "Football (c) Tennis",
+      "b": "Football",
       "d": "Archery",
-      "e": "Wrestling"
+      "e": "Wrestling",
+      "c": "Tennis"
     },
     "correctOption": "b",
     "solutionText": "Sanjeev Stalin is an Indian professional footballer who plays as a defender for Indian Arrows in the I-League.",
@@ -6520,9 +6586,10 @@
     "questionText": "Sanjeev Stalin is related to which game?",
     "options": {
       "a": "Cricket",
-      "b": "Football (c) Tennis",
+      "b": "Football",
       "d": "Archery",
-      "e": "Wrestling"
+      "e": "Wrestling",
+      "c": "Tennis"
     },
     "correctOption": "b",
     "solutionText": "Sanjeev Stalin is an Indian professional footballer who plays as a defender for Indian Arrows in the I-League.",
@@ -6543,9 +6610,10 @@
     "questionText": "Sanjeev Stalin is related to which game?",
     "options": {
       "a": "Cricket",
-      "b": "Football (c) Tennis",
+      "b": "Football",
       "d": "Archery",
-      "e": "Wrestling"
+      "e": "Wrestling",
+      "c": "Tennis"
     },
     "correctOption": "b",
     "solutionText": "Sanjeev Stalin is an Indian professional footballer who plays as a defender for Indian Arrows in the I-League.",
@@ -6566,9 +6634,10 @@
     "questionText": "Sanjeev Stalin is related to which game?",
     "options": {
       "a": "Cricket",
-      "b": "Football (c) Tennis",
+      "b": "Football",
       "d": "Archery",
-      "e": "Wrestling"
+      "e": "Wrestling",
+      "c": "Tennis"
     },
     "correctOption": "b",
     "solutionText": "Sanjeev Stalin is an Indian professional footballer who plays as a defender for Indian Arrows in the I-League.",
@@ -6589,9 +6658,10 @@
     "questionText": "Sanjeev Stalin is related to which game?",
     "options": {
       "a": "Cricket",
-      "b": "Football (c) Tennis",
+      "b": "Football",
       "d": "Archery",
-      "e": "Wrestling"
+      "e": "Wrestling",
+      "c": "Tennis"
     },
     "correctOption": "b",
     "solutionText": "Sanjeev Stalin is an Indian professional footballer who plays as a defender for Indian Arrows in the I-League.",
@@ -6612,9 +6682,10 @@
     "questionText": "Sanjeev Stalin is related to which game?",
     "options": {
       "a": "Cricket",
-      "b": "Football (c) Tennis",
+      "b": "Football",
       "d": "Archery",
-      "e": "Wrestling"
+      "e": "Wrestling",
+      "c": "Tennis"
     },
     "correctOption": "b",
     "solutionText": "Sanjeev Stalin is an Indian professional footballer who plays as a defender for Indian Arrows in the I-League.",
@@ -6779,9 +6850,10 @@
     "questionText": "Koyna Dam is built across river koyana in which state?",
     "options": {
       "a": "Maharashtra",
-      "b": "Haryana  (c) Odisha",
+      "b": "Haryana",
       "d": "Madhya Pradesh",
-      "e": "None of these"
+      "e": "None of these",
+      "c": "Odisha"
     },
     "correctOption": "a",
     "solutionText": "Koyna Dam is built across river koyna in Koyna Naga Maharashtra with a height of 103m. It is one of the largest dams in Maharashtra located at Western Ghats. The lake founded by the Koyna dam is called The Shivaji Lake.",
@@ -6897,10 +6969,11 @@
     "passage": null,
     "questionText": "Prime Minister Narendra Modi has inaugurated various irrigation and water-related initiatives at Aji Dam. This dam is located in ____________.",
     "options": {
-      "a": "Uttar Pradesh (b) Bihar",
+      "a": "Uttar Pradesh",
       "c": "Gujarat",
       "d": "Karnataka",
-      "e": "Kerala"
+      "e": "Kerala",
+      "b": "Bihar"
     },
     "correctOption": "c",
     "solutionText": "Prime Minister Narendra Modi inaugurated various irrigation and water-related initiatives at Aji Dam in Rajkot, Gujarat including the filling of Aji dam with Narmada waters under Sauni Yojana.",
@@ -7593,9 +7666,10 @@
     "questionText": "In which district first phase of 65 MW Kashang Hydel Project has launched in Himachal Pradesh?",
     "options": {
       "a": "Hamirpur",
-      "b": "Sirmaur (c) Kullu",
+      "b": "Sirmaur",
       "d": "Kinnaur",
-      "e": "Bilaspur"
+      "e": "Bilaspur",
+      "c": "Kullu"
     },
     "correctOption": "d",
     "solutionText": "Himachal Chief Minister Virbhadra Singh inaugurated first phase of 65 MW Kashang Hydel Project in the tribal Kinnaur district. The work on 195 MW (three units of 65 MW each) Kashang Project is being executed by Himachal Pradesh Power Corporation Limited.",
@@ -7616,9 +7690,10 @@
     "questionText": "In which district first phase of 65 MW Kashang Hydel Project has launched in Himachal Pradesh?",
     "options": {
       "a": "Hamirpur",
-      "b": "Sirmaur (c) Kullu",
+      "b": "Sirmaur",
       "d": "Kinnaur",
-      "e": "Bilaspur"
+      "e": "Bilaspur",
+      "c": "Kullu"
     },
     "correctOption": "d",
     "solutionText": "Himachal Chief Minister Virbhadra Singh inaugurated first phase of 65 MW Kashang Hydel Project in the tribal Kinnaur district. The work on 195 MW (three units of 65 MW each) Kashang Project is being executed by Himachal Pradesh Power Corporation Limited.",
@@ -7639,9 +7714,10 @@
     "questionText": "In which district first phase of 65 MW Kashang Hydel Project has launched in Himachal Pradesh?",
     "options": {
       "a": "Hamirpur",
-      "b": "Sirmaur (c) Kullu",
+      "b": "Sirmaur",
       "d": "Kinnaur",
-      "e": "Bilaspur"
+      "e": "Bilaspur",
+      "c": "Kullu"
     },
     "correctOption": "d",
     "solutionText": "Himachal Chief Minister Virbhadra Singh inaugurated first phase of 65 MW Kashang Hydel Project in the tribal Kinnaur district. The work on 195 MW (three units of 65 MW each) Kashang Project is being executed by Himachal Pradesh Power Corporation Limited.",
@@ -7662,9 +7738,10 @@
     "questionText": "In which district first phase of 65 MW Kashang Hydel Project has launched in Himachal Pradesh?",
     "options": {
       "a": "Hamirpur",
-      "b": "Sirmaur (c) Kullu",
+      "b": "Sirmaur",
       "d": "Kinnaur",
-      "e": "Bilaspur"
+      "e": "Bilaspur",
+      "c": "Kullu"
     },
     "correctOption": "d",
     "solutionText": "Himachal Chief Minister Virbhadra Singh inaugurated first phase of 65 MW Kashang Hydel Project in the tribal Kinnaur district. The work on 195 MW (three units of 65 MW each) Kashang Project is being executed by Himachal Pradesh Power Corporation Limited.",
@@ -7685,9 +7762,10 @@
     "questionText": "In which district first phase of 65 MW Kashang Hydel Project has launched in Himachal Pradesh?",
     "options": {
       "a": "Hamirpur",
-      "b": "Sirmaur (c) Kullu",
+      "b": "Sirmaur",
       "d": "Kinnaur",
-      "e": "Bilaspur"
+      "e": "Bilaspur",
+      "c": "Kullu"
     },
     "correctOption": "d",
     "solutionText": "Himachal Chief Minister Virbhadra Singh inaugurated first phase of 65 MW Kashang Hydel Project in the tribal Kinnaur district. The work on 195 MW (three units of 65 MW each) Kashang Project is being executed by Himachal Pradesh Power Corporation Limited.",
@@ -7708,9 +7786,10 @@
     "questionText": "In which district first phase of 65 MW Kashang Hydel Project has launched in Himachal Pradesh?",
     "options": {
       "a": "Hamirpur",
-      "b": "Sirmaur (c) Kullu",
+      "b": "Sirmaur",
       "d": "Kinnaur",
-      "e": "Bilaspur"
+      "e": "Bilaspur",
+      "c": "Kullu"
     },
     "correctOption": "d",
     "solutionText": "Himachal Chief Minister Virbhadra Singh inaugurated first phase of 65 MW Kashang Hydel Project in the tribal Kinnaur district. The work on 195 MW (three units of 65 MW each) Kashang Project is being executed by Himachal Pradesh Power Corporation Limited.",
@@ -7731,9 +7810,10 @@
     "questionText": "In which district first phase of 65 MW Kashang Hydel Project has launched in Himachal Pradesh?",
     "options": {
       "a": "Hamirpur",
-      "b": "Sirmaur (c) Kullu",
+      "b": "Sirmaur",
       "d": "Kinnaur",
-      "e": "Bilaspur"
+      "e": "Bilaspur",
+      "c": "Kullu"
     },
     "correctOption": "d",
     "solutionText": "Himachal Chief Minister Virbhadra Singh inaugurated first phase of 65 MW Kashang Hydel Project in the tribal Kinnaur district. The work on 195 MW (three units of 65 MW each) Kashang Project is being executed by Himachal Pradesh Power Corporation Limited.",
@@ -7754,9 +7834,10 @@
     "questionText": "In which district first phase of 65 MW Kashang Hydel Project has launched in Himachal Pradesh?",
     "options": {
       "a": "Hamirpur",
-      "b": "Sirmaur (c) Kullu",
+      "b": "Sirmaur",
       "d": "Kinnaur",
-      "e": "Bilaspur"
+      "e": "Bilaspur",
+      "c": "Kullu"
     },
     "correctOption": "d",
     "solutionText": "Himachal Chief Minister Virbhadra Singh inaugurated first phase of 65 MW Kashang Hydel Project in the tribal Kinnaur district. The work on 195 MW (three units of 65 MW each) Kashang Project is being executed by Himachal Pradesh Power Corporation Limited.",
@@ -7777,9 +7858,10 @@
     "questionText": "In which district first phase of 65 MW Kashang Hydel Project has launched in Himachal Pradesh?",
     "options": {
       "a": "Hamirpur",
-      "b": "Sirmaur (c) Kullu",
+      "b": "Sirmaur",
       "d": "Kinnaur",
-      "e": "Bilaspur"
+      "e": "Bilaspur",
+      "c": "Kullu"
     },
     "correctOption": "d",
     "solutionText": "Himachal Chief Minister Virbhadra Singh inaugurated first phase of 65 MW Kashang Hydel Project in the tribal Kinnaur district. The work on 195 MW (three units of 65 MW each) Kashang Project is being executed by Himachal Pradesh Power Corporation Limited.",
@@ -7992,9 +8074,10 @@
     "questionText": "The Chinnar Wildlife Sanctuary is located in which state?",
     "options": {
       "a": "Kerala",
-      "b": "Tamil Nadu (c) Rajasthan",
+      "b": "Tamil Nadu",
       "d": "Assam",
-      "e": "Manipur"
+      "e": "Manipur",
+      "c": "Rajasthan"
     },
     "correctOption": "a",
     "solutionText": "Famously known for the habitat of endangered species of Giant Grizzled Squirrel of India, the Chinnar Wildlife Sanctuary is located in the Idukki district of Kerala state.",
@@ -8065,7 +8148,8 @@
       "a": "Uttarakhand",
       "b": "Ladakh",
       "c": "New Delhi",
-      "d": "Haryana (e) Uttar Pradesh"
+      "d": "Haryana",
+      "e": "Uttar Pradesh"
     },
     "correctOption": "b",
     "solutionText": "Hemis National Park is a high altitude national park in the eastern Ladakh region of the UT of Ladakh in India.",
@@ -8302,9 +8386,10 @@
     "questionText": "Ranthambore National Park is located in",
     "options": {
       "a": "Kerala",
-      "b": "Tamil Nadu (c) Rajasthan",
+      "b": "Tamil Nadu",
       "d": "Assam",
-      "e": "Manipur"
+      "e": "Manipur",
+      "c": "Rajasthan"
     },
     "correctOption": "a",
     "solutionText": "One of the biggest national wildlife sanctuaries in India, it is located about 130 kms away from the city of Jaipur between the north and central India. It lies on a sprawling 400 acres of land in the of south-eastern Rajasthan, and was once the hunting grounds of the royal family.",
@@ -8325,9 +8410,10 @@
     "questionText": "Keoladeo Ghana National Park is located in which state?",
     "options": {
       "a": "Kerala",
-      "b": "Tamil Nadu (c) Rajasthan",
+      "b": "Tamil Nadu",
       "d": "Assam",
-      "e": "Manipur"
+      "e": "Manipur",
+      "c": "Rajasthan"
     },
     "correctOption": "a",
     "solutionText": "Keoladeo National Park or Keoladeo Ghana National Park formerly known as the Bharatpur Bird Sanctuary in Bharatpur, Rajasthan, India is a famous avifauna sanctuary that hosts thousands of birds, especially during the winter season.",
@@ -8468,9 +8554,10 @@
     "questionText": "Kaziranga National Park is situated in which state?",
     "options": {
       "a": "Kerala",
-      "b": "Tamil Nadu (c) Rajasthan",
+      "b": "Tamil Nadu",
       "d": "Assam",
-      "e": "Manipur"
+      "e": "Manipur",
+      "c": "Rajasthan"
     },
     "correctOption": "d",
     "solutionText": "The Kaziranga National Park in the Golaghat and Nagaon districts of Assam. Situated between the two districts of Nagaon and Golaghat, this truly beautiful wildlife sanctuary in India is home to this amazing animal that breeds here in abundance.",
@@ -8611,9 +8698,10 @@
     "questionText": "Where is the headquarter of ABN AMRO Bank?",
     "options": {
       "a": "Taiwan",
-      "b": "Germany (c) France",
+      "b": "Germany",
       "d": "Netherland",
-      "e": "None of these"
+      "e": "None of these",
+      "c": "France"
     },
     "correctOption": "d",
     "solutionText": "ABN AMRO Bank N.V. is a Dutch bank with headquarters in Amsterdam. ABN AMRO Bank is the third-largest bank in the Netherlands. In 1991, Algemene Bank Nederland (ABN) and AMRO Bank (itself the result of a merger of the Amsterdamsche Bank and the Rotterdamsche Bank in the 1960s) agreed to merge to create the original ABN AMRO.",
@@ -8682,9 +8770,10 @@
     "questionText": "Where is the headquarter of BNP Paribas Bank?",
     "options": {
       "a": "Taiwan",
-      "b": "Germany (c) France",
+      "b": "Germany",
       "d": "Netherland",
-      "e": "None of these"
+      "e": "None of these",
+      "c": "France"
     },
     "correctOption": "a",
     "solutionText": "BNP Paribas is an international banking group with a presence in 75 countries. It was formed through the merger of Banque Nationale de Paris (BNP) (established in 1848) and Paribas (established in 1872) in 2000. BNP Paribas has the highest brand value in France.",
@@ -8705,9 +8794,10 @@
     "questionText": "Where is the headquarter of Citibank?",
     "options": {
       "a": "London",
-      "b": "New York (c) Paris",
+      "b": "New York",
       "d": "Geneva",
-      "e": "Washington"
+      "e": "Washington",
+      "c": "Paris"
     },
     "correctOption": "b",
     "solutionText": "Citibank is the consumer division of financial services multinational Citigroup. Citibank was founded in 1812 as the City Bank of New York, later First National City Bank of New York. Citibank provides credit cards, mortgages, personal loans, commercial loans, and lines of credit.",
@@ -8968,9 +9058,10 @@
     "questionText": "Where is the headquarter of Deutsche Bank?",
     "options": {
       "a": "Taiwan",
-      "b": "Germany (c) France",
+      "b": "Germany",
       "d": "Netherland",
-      "e": "None of these"
+      "e": "None of these",
+      "c": "France"
     },
     "correctOption": "b",
     "solutionText": "Deutsche Bank AG is a German global banking and financial services company, with its headquarters in the Deutsche Bank Twin Towers in Frankfurt. Deutsche Bank was founded in Berlin in 1870 as a specialist bank for foreign trade.",
@@ -8991,9 +9082,10 @@
     "questionText": "Where is the headquarter of First Rand Bank?",
     "options": {
       "a": "USA",
-      "b": "South Africa (c) Brazil",
+      "b": "South Africa",
       "d": "Australia",
-      "e": "None of these"
+      "e": "None of these",
+      "c": "Brazil"
     },
     "correctOption": "b",
     "solutionText": "FirstRand Limited, also referred to as FirstRand Group is the holding company of FirstRand Bank, and is a financial services provider in South Africa. It is one of the financial services providers licensed by the Reserve Bank of South Africa, the national banking regulator.",
@@ -10310,9 +10402,10 @@
     "questionText": "Name the First Bank to introduce Internet Banking?",
     "options": {
       "a": "Axis Bank",
-      "b": "HDFC Bank (c) SBI",
+      "b": "HDFC Bank",
       "d": "ICICI Bank",
-      "e": "HSBC Bank"
+      "e": "HSBC Bank",
+      "c": "SBI"
     },
     "correctOption": "d",
     "solutionText": "ICICI Bank was the first Indian bank to provide internet banking facility.",
@@ -10333,9 +10426,10 @@
     "questionText": "Name the First Bank to introduce Internet Banking?",
     "options": {
       "a": "Axis Bank",
-      "b": "HDFC Bank (c) SBI",
+      "b": "HDFC Bank",
       "d": "ICICI Bank",
-      "e": "HSBC Bank"
+      "e": "HSBC Bank",
+      "c": "SBI"
     },
     "correctOption": "d",
     "solutionText": "ICICI Bank was the first Indian bank to provide internet banking facility.",
@@ -10356,9 +10450,10 @@
     "questionText": "Name the First Bank to introduce Internet Banking?",
     "options": {
       "a": "Axis Bank",
-      "b": "HDFC Bank (c) SBI",
+      "b": "HDFC Bank",
       "d": "ICICI Bank",
-      "e": "HSBC Bank"
+      "e": "HSBC Bank",
+      "c": "SBI"
     },
     "correctOption": "d",
     "solutionText": "ICICI Bank was the first Indian bank to provide internet banking facility.",
@@ -10379,9 +10474,10 @@
     "questionText": "Name the First Bank to introduce Internet Banking?",
     "options": {
       "a": "Axis Bank",
-      "b": "HDFC Bank (c) SBI",
+      "b": "HDFC Bank",
       "d": "ICICI Bank",
-      "e": "HSBC Bank"
+      "e": "HSBC Bank",
+      "c": "SBI"
     },
     "correctOption": "d",
     "solutionText": "ICICI Bank was the first Indian bank to provide internet banking facility.",
@@ -10402,9 +10498,10 @@
     "questionText": "Name the First Bank to introduce Internet Banking?",
     "options": {
       "a": "Axis Bank",
-      "b": "HDFC Bank (c) SBI",
+      "b": "HDFC Bank",
       "d": "ICICI Bank",
-      "e": "HSBC Bank"
+      "e": "HSBC Bank",
+      "c": "SBI"
     },
     "correctOption": "d",
     "solutionText": "ICICI Bank was the first Indian bank to provide internet banking facility.",
@@ -10425,9 +10522,10 @@
     "questionText": "Name the First Bank to introduce Internet Banking?",
     "options": {
       "a": "Axis Bank",
-      "b": "HDFC Bank (c) SBI",
+      "b": "HDFC Bank",
       "d": "ICICI Bank",
-      "e": "HSBC Bank"
+      "e": "HSBC Bank",
+      "c": "SBI"
     },
     "correctOption": "d",
     "solutionText": "ICICI Bank was the first Indian bank to provide internet banking facility.",
@@ -10448,9 +10546,10 @@
     "questionText": "Name the First Bank to introduce Internet Banking?",
     "options": {
       "a": "Axis Bank",
-      "b": "HDFC Bank (c) SBI",
+      "b": "HDFC Bank",
       "d": "ICICI Bank",
-      "e": "HSBC Bank"
+      "e": "HSBC Bank",
+      "c": "SBI"
     },
     "correctOption": "d",
     "solutionText": "ICICI Bank was the first Indian bank to provide internet banking facility.",
@@ -10471,9 +10570,10 @@
     "questionText": "Name the First Bank to introduce Internet Banking?",
     "options": {
       "a": "Axis Bank",
-      "b": "HDFC Bank (c) SBI",
+      "b": "HDFC Bank",
       "d": "ICICI Bank",
-      "e": "HSBC Bank"
+      "e": "HSBC Bank",
+      "c": "SBI"
     },
     "correctOption": "d",
     "solutionText": "ICICI Bank was the first Indian bank to provide internet banking facility.",
@@ -10494,9 +10594,10 @@
     "questionText": "Name the First Bank to introduce Internet Banking?",
     "options": {
       "a": "Axis Bank",
-      "b": "HDFC Bank (c) SBI",
+      "b": "HDFC Bank",
       "d": "ICICI Bank",
-      "e": "HSBC Bank"
+      "e": "HSBC Bank",
+      "c": "SBI"
     },
     "correctOption": "d",
     "solutionText": "ICICI Bank was the first Indian bank to provide internet banking facility.",
@@ -11645,9 +11746,10 @@
     "questionText": "Name the First Universal Bank in India?",
     "options": {
       "a": "SBI",
-      "b": "ICICI Bank (c) PNB",
+      "b": "ICICI Bank",
       "d": "HDFC",
-      "e": "Axis Bank"
+      "e": "Axis Bank",
+      "c": "PNB"
     },
     "correctOption": "b",
     "solutionText": "ICICI Bank is the first Universal Bank in India.",
@@ -11668,9 +11770,10 @@
     "questionText": "Name the First Universal Bank in India?",
     "options": {
       "a": "SBI",
-      "b": "ICICI Bank (c) PNB",
+      "b": "ICICI Bank",
       "d": "HDFC",
-      "e": "Axis Bank"
+      "e": "Axis Bank",
+      "c": "PNB"
     },
     "correctOption": "b",
     "solutionText": "ICICI Bank is the first Universal Bank in India.",
@@ -11691,9 +11794,10 @@
     "questionText": "Name the First Universal Bank in India?",
     "options": {
       "a": "SBI",
-      "b": "ICICI Bank (c) PNB",
+      "b": "ICICI Bank",
       "d": "HDFC",
-      "e": "Axis Bank"
+      "e": "Axis Bank",
+      "c": "PNB"
     },
     "correctOption": "b",
     "solutionText": "ICICI Bank is the first Universal Bank in India.",
@@ -11714,9 +11818,10 @@
     "questionText": "Name the First Universal Bank in India?",
     "options": {
       "a": "SBI",
-      "b": "ICICI Bank (c) PNB",
+      "b": "ICICI Bank",
       "d": "HDFC",
-      "e": "Axis Bank"
+      "e": "Axis Bank",
+      "c": "PNB"
     },
     "correctOption": "b",
     "solutionText": "ICICI Bank is the first Universal Bank in India.",
@@ -11737,9 +11842,10 @@
     "questionText": "Name the First Universal Bank in India?",
     "options": {
       "a": "SBI",
-      "b": "ICICI Bank (c) PNB",
+      "b": "ICICI Bank",
       "d": "HDFC",
-      "e": "Axis Bank"
+      "e": "Axis Bank",
+      "c": "PNB"
     },
     "correctOption": "b",
     "solutionText": "ICICI Bank is the first Universal Bank in India.",
@@ -11760,9 +11866,10 @@
     "questionText": "Name the First Universal Bank in India?",
     "options": {
       "a": "SBI",
-      "b": "ICICI Bank (c) PNB",
+      "b": "ICICI Bank",
       "d": "HDFC",
-      "e": "Axis Bank"
+      "e": "Axis Bank",
+      "c": "PNB"
     },
     "correctOption": "b",
     "solutionText": "ICICI Bank is the first Universal Bank in India.",
@@ -11783,9 +11890,10 @@
     "questionText": "Name the First Universal Bank in India?",
     "options": {
       "a": "SBI",
-      "b": "ICICI Bank (c) PNB",
+      "b": "ICICI Bank",
       "d": "HDFC",
-      "e": "Axis Bank"
+      "e": "Axis Bank",
+      "c": "PNB"
     },
     "correctOption": "b",
     "solutionText": "ICICI Bank is the first Universal Bank in India.",
@@ -11806,9 +11914,10 @@
     "questionText": "Name the First Universal Bank in India?",
     "options": {
       "a": "SBI",
-      "b": "ICICI Bank (c) PNB",
+      "b": "ICICI Bank",
       "d": "HDFC",
-      "e": "Axis Bank"
+      "e": "Axis Bank",
+      "c": "PNB"
     },
     "correctOption": "b",
     "solutionText": "ICICI Bank is the first Universal Bank in India.",
@@ -11829,9 +11938,10 @@
     "questionText": "Name the First Universal Bank in India?",
     "options": {
       "a": "SBI",
-      "b": "ICICI Bank (c) PNB",
+      "b": "ICICI Bank",
       "d": "HDFC",
-      "e": "Axis Bank"
+      "e": "Axis Bank",
+      "c": "PNB"
     },
     "correctOption": "b",
     "solutionText": "ICICI Bank is the first Universal Bank in India.",
@@ -12092,9 +12202,10 @@
     "questionText": "Where was the first Headquarters of Reserve Bank of India (RBI)?",
     "options": {
       "a": "New Delhi",
-      "b": "Lucknow (c) Kolkata",
+      "b": "Lucknow",
       "d": "Chennai",
-      "e": "None of these"
+      "e": "None of these",
+      "c": "Kolkata"
     },
     "correctOption": "a",
     "solutionText": "The Central Office of the Reserve Bank was initially established in Calcutta but was permanently moved to Mumbai in 1937. The Central Office is where the Governor sits and where policies are formulated.",
@@ -17875,9 +17986,10 @@
     "questionText": "The annual Balijatra festival celebrated on the banks of river Mahanadi in which city?",
     "options": {
       "a": "Raipur",
-      "b": "Sambalpur (c) Angul",
+      "b": "Sambalpur",
       "d": "Cuttack",
-      "e": "Jharsuguda"
+      "e": "Jharsuguda",
+      "c": "Angul"
     },
     "correctOption": "d",
     "solutionText": "Balijatra festival is held in Odisha, in the city of Cuttack at Gadagadia Ghata of the Mahanadi river.",
@@ -18642,9 +18754,10 @@
     "questionText": "Y Sanathoi Devi is associated with which sports?",
     "options": {
       "a": "Hockey",
-      "b": "Football (c) Wushu",
+      "b": "Football",
       "d": "Badminton",
-      "e": "None of these"
+      "e": "None of these",
+      "c": "Wushu"
     },
     "correctOption": "a",
     "solutionText": "Y Sanathoi Devi is associated with Wushu sports",
@@ -18665,9 +18778,10 @@
     "questionText": "Y Sanathoi Devi is associated with which sports?",
     "options": {
       "a": "Hockey",
-      "b": "Football (c) Wushu",
+      "b": "Football",
       "d": "Badminton",
-      "e": "None of these"
+      "e": "None of these",
+      "c": "Wushu"
     },
     "correctOption": "a",
     "solutionText": "Y Sanathoi Devi is associated with Wushu sports",
@@ -18688,9 +18802,10 @@
     "questionText": "Y Sanathoi Devi is associated with which sports?",
     "options": {
       "a": "Hockey",
-      "b": "Football (c) Wushu",
+      "b": "Football",
       "d": "Badminton",
-      "e": "None of these"
+      "e": "None of these",
+      "c": "Wushu"
     },
     "correctOption": "a",
     "solutionText": "Y Sanathoi Devi is associated with Wushu sports",
@@ -18711,9 +18826,10 @@
     "questionText": "Y Sanathoi Devi is associated with which sports?",
     "options": {
       "a": "Hockey",
-      "b": "Football (c) Wushu",
+      "b": "Football",
       "d": "Badminton",
-      "e": "None of these"
+      "e": "None of these",
+      "c": "Wushu"
     },
     "correctOption": "a",
     "solutionText": "Y Sanathoi Devi is associated with Wushu sports",
@@ -18734,9 +18850,10 @@
     "questionText": "Y Sanathoi Devi is associated with which sports?",
     "options": {
       "a": "Hockey",
-      "b": "Football (c) Wushu",
+      "b": "Football",
       "d": "Badminton",
-      "e": "None of these"
+      "e": "None of these",
+      "c": "Wushu"
     },
     "correctOption": "a",
     "solutionText": "Y Sanathoi Devi is associated with Wushu sports",
@@ -18757,9 +18874,10 @@
     "questionText": "Y Sanathoi Devi is associated with which sports?",
     "options": {
       "a": "Hockey",
-      "b": "Football (c) Wushu",
+      "b": "Football",
       "d": "Badminton",
-      "e": "None of these"
+      "e": "None of these",
+      "c": "Wushu"
     },
     "correctOption": "a",
     "solutionText": "Y Sanathoi Devi is associated with Wushu sports",
@@ -18780,9 +18898,10 @@
     "questionText": "Y Sanathoi Devi is associated with which sports?",
     "options": {
       "a": "Hockey",
-      "b": "Football (c) Wushu",
+      "b": "Football",
       "d": "Badminton",
-      "e": "None of these"
+      "e": "None of these",
+      "c": "Wushu"
     },
     "correctOption": "a",
     "solutionText": "Y Sanathoi Devi is associated with Wushu sports",
@@ -18803,9 +18922,10 @@
     "questionText": "Y Sanathoi Devi is associated with which sports?",
     "options": {
       "a": "Hockey",
-      "b": "Football (c) Wushu",
+      "b": "Football",
       "d": "Badminton",
-      "e": "None of these"
+      "e": "None of these",
+      "c": "Wushu"
     },
     "correctOption": "a",
     "solutionText": "Y Sanathoi Devi is associated with Wushu sports",
@@ -18826,9 +18946,10 @@
     "questionText": "Y Sanathoi Devi is associated with which sports?",
     "options": {
       "a": "Hockey",
-      "b": "Football (c) Wushu",
+      "b": "Football",
       "d": "Badminton",
-      "e": "None of these"
+      "e": "None of these",
+      "c": "Wushu"
     },
     "correctOption": "a",
     "solutionText": "Y Sanathoi Devi is associated with Wushu sports",
@@ -18851,7 +18972,8 @@
       "a": "Bihar",
       "b": "Maharashtra",
       "c": "Gujarat",
-      "d": "Rajasthan (e) Karnataka"
+      "d": "Rajasthan",
+      "e": "Karnataka"
     },
     "correctOption": "b",
     "solutionText": "The largest producer of onion in India is Maharashtra.",
@@ -18874,7 +18996,8 @@
       "a": "Bihar",
       "b": "Maharashtra",
       "c": "Gujarat",
-      "d": "Rajasthan (e) Karnataka"
+      "d": "Rajasthan",
+      "e": "Karnataka"
     },
     "correctOption": "b",
     "solutionText": "The largest producer of onion in India is Maharashtra.",
@@ -18897,7 +19020,8 @@
       "a": "Bihar",
       "b": "Maharashtra",
       "c": "Gujarat",
-      "d": "Rajasthan (e) Karnataka"
+      "d": "Rajasthan",
+      "e": "Karnataka"
     },
     "correctOption": "b",
     "solutionText": "The largest producer of onion in India is Maharashtra.",
@@ -18920,7 +19044,8 @@
       "a": "Bihar",
       "b": "Maharashtra",
       "c": "Gujarat",
-      "d": "Rajasthan (e) Karnataka"
+      "d": "Rajasthan",
+      "e": "Karnataka"
     },
     "correctOption": "b",
     "solutionText": "The largest producer of onion in India is Maharashtra.",
@@ -18943,7 +19068,8 @@
       "a": "Bihar",
       "b": "Maharashtra",
       "c": "Gujarat",
-      "d": "Rajasthan (e) Karnataka"
+      "d": "Rajasthan",
+      "e": "Karnataka"
     },
     "correctOption": "b",
     "solutionText": "The largest producer of onion in India is Maharashtra.",
@@ -18966,7 +19092,8 @@
       "a": "Bihar",
       "b": "Maharashtra",
       "c": "Gujarat",
-      "d": "Rajasthan (e) Karnataka"
+      "d": "Rajasthan",
+      "e": "Karnataka"
     },
     "correctOption": "b",
     "solutionText": "The largest producer of onion in India is Maharashtra.",
@@ -18989,7 +19116,8 @@
       "a": "Bihar",
       "b": "Maharashtra",
       "c": "Gujarat",
-      "d": "Rajasthan (e) Karnataka"
+      "d": "Rajasthan",
+      "e": "Karnataka"
     },
     "correctOption": "b",
     "solutionText": "The largest producer of onion in India is Maharashtra.",
@@ -19012,7 +19140,8 @@
       "a": "Bihar",
       "b": "Maharashtra",
       "c": "Gujarat",
-      "d": "Rajasthan (e) Karnataka"
+      "d": "Rajasthan",
+      "e": "Karnataka"
     },
     "correctOption": "b",
     "solutionText": "The largest producer of onion in India is Maharashtra.",
@@ -19035,7 +19164,8 @@
       "a": "Bihar",
       "b": "Maharashtra",
       "c": "Gujarat",
-      "d": "Rajasthan (e) Karnataka"
+      "d": "Rajasthan",
+      "e": "Karnataka"
     },
     "correctOption": "b",
     "solutionText": "The largest producer of onion in India is Maharashtra.",
@@ -28418,7 +28548,8 @@
       "a": "Punjab",
       "b": "Kerala",
       "c": "Andhra Pradesh",
-      "d": "Uttar Pradesh (e) None of these"
+      "d": "Uttar Pradesh",
+      "e": "None of these"
     },
     "correctOption": "b",
     "solutionText": "Option (b) is the correct answer.",
@@ -28439,9 +28570,10 @@
     "questionText": "Nagarjuna Sagar Dam is located in which state of India ?",
     "options": {
       "a": "Gujarat",
-      "b": "Rajasthan (c) Andhra Pradesh",
+      "b": "Rajasthan",
       "d": "Uttarakhand",
-      "e": "None of these"
+      "e": "None of these",
+      "c": "Andhra Pradesh"
     },
     "correctOption": "a",
     "solutionText": "Option (a) is the correct answer.",

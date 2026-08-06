@@ -21,7 +21,7 @@ NOISE_RE = [re.compile(p, re.I) for p in NOISE_PATTERNS]
 DIRECTIONS_RE = re.compile(r"^Directions?\s*(\(\d+\s*[-–]\s*\d+\)\s*:?|\d+\s*[-–]\s*\d+\s*:?)(.*)$", re.I)
 TYPE_HEADER_RE = re.compile(r"^TYPE\s*[-–]?\s*([IVX\d\w\s-]+)$", re.I)
 QNUM_RE = re.compile(r"^(\d{1,3})\.\s*(.*)$")
-OPTION_RE = re.compile(r"^\(([a-eA-E])\)\s*(.*)$")
+OPTION_RE = re.compile(r"^\(([a-e])\)\s*(.*)$")
 SOLUTIONS_HEADING_RE = re.compile(r"^\s*(Solutions|SOLUTIONS|Answers|ANSWERS)\s*$")
 SOL_ENTRY_RE = re.compile(r"^(\d{1,3})\.\s*\(([a-eA-E])\)\s*[:;]?\s*(.*)$")
 

@@ -60,10 +60,11 @@
     "passage": "What approximate value should come in\nthe place of question mark in following question.",
     "questionText": "312.07 ? + (12.99)2 = 20.01 % of 909.99",
     "options": {
-      "a": "None of these (b) 48",
+      "a": "None of these",
       "c": "6",
       "d": "12",
-      "e": "24s"
+      "e": "24s",
+      "b": "48"
     },
     "correctOption": "e",
     "solutionText": "?   + 169 = 100 × 910 ?  = 182 − 169 ?  = 13 ? = 24",
@@ -335,9 +336,10 @@
     "questionText": "1898.88 ÷ 189.921 + 9.99 + (? )2 = 83.89",
     "options": {
       "a": "3",
-      "b": "4 (c) 5",
+      "b": "4",
       "d": "8",
-      "e": "7"
+      "e": "7",
+      "c": "5"
     },
     "correctOption": "d",
     "solutionText": "≈1900 ÷ 190 + 10 +?2 = 84 Or, ?2 = 84 −10 −10 𝑜𝑟, ?= 8 40 × 8 −250 =?−63 × 8",
@@ -384,9 +386,10 @@
     "questionText": "57% of 394-2.5% of 996=?",
     "options": {
       "a": "215",
-      "b": "175 (c) 200",
+      "b": "175",
       "d": "180",
-      "e": "227"
+      "e": "227",
+      "c": "200"
     },
     "correctOption": "a",
     "solutionText": "? = 394×57 − 996×2.5 = 400×57 − 1000×2.5 = 228−25 = 203 ∴ Required answer = 200",
@@ -408,9 +411,10 @@
     "questionText": "96.996 × 9.869 + 0.96 =?",
     "options": {
       "a": "860",
-      "b": "870 (c) 1080",
+      "b": "870",
       "d": "965",
-      "e": "1100"
+      "e": "1100",
+      "c": "1080"
     },
     "correctOption": "d",
     "solutionText": "? = 97× 10 + 1 = 971 ∴ Required answer = 965",
@@ -482,9 +486,10 @@
     "questionText": "(638 + 9709 −216) ÷ 26 =?",
     "options": {
       "a": "275",
-      "b": "345 (c) 440",
+      "b": "345",
       "d": "300",
-      "e": "390"
+      "e": "390",
+      "c": "440"
     },
     "correctOption": "e",
     "solutionText": "? = 638+9709−216 = 390",
@@ -2708,7 +2713,8 @@
       "a": "Rs 800",
       "b": "Rs 1600",
       "c": "Rs 1500",
-      "d": "None of these (e) Rs 1200"
+      "d": "None of these",
+      "e": "Rs 1200"
     },
     "correctOption": "c",
     "solutionText": "let CP of book be Rs x SP = Rs 1.2x New CP = Rs 0.9x New SP = Rs 1.2x + 90 ATQ, 0.9𝑥× 100 = 1.2𝑥+ 90 1.26x = 1.2x + 90 x = Rs 1500",
@@ -2852,7 +2858,7 @@
       "mains"
     ],
     "passage": null,
-    "questionText": "Marked price of an article is 40% above its cost price and when shopkeeper allows ‘d’% discount then shopkeeper make a profit of ________% and when shopkeeper allows ‘2d’% discount then he make a profit of ________%. Which of the following options possible to fill both respective blanks? (A) (22.5, 5) (B) (33, 26) (C) (19, 2) (D) (26, 12) (E) (23.2, 6.4)",
+    "questionText": "Marked price of an article is 40% above its cost price and when shopkeeper allows ‘d’% discount then shopkeeper make a profit of ________% and when shopkeeper allows ‘2d’% discount then he make a profit of ________%. Which of the following options possible to fill both respective blanks?\n\n(A) (22.5, 5)\n\n(B) (33, 26)\n\n(C) (19, 2)\n\n(D) (26, 12)\n\n(E) (23.2, 6.4)",
     "options": {
       "a": "Only option A, B, C possible",
       "b": "Only option B, D & E possible",
@@ -5005,9 +5011,10 @@
     "questionText": "Two inlet taps A and B can fill a tank in 36 minutes and 60 minutes respectively. Find the time taken by both the taps together to fill 6 𝑡ℎ of the tank?",
     "options": {
       "a": "3 minutes",
-      "b": "3 4 minutes (c) 3 2 minutes",
+      "b": "3 4 minutes",
       "d": "3 3 minutes",
-      "e": "2 3 minutes"
+      "e": "2 3 minutes",
+      "c": "3 2 minutes"
     },
     "correctOption": "b",
     "solutionText": "Let the capacity of the tank be 180 units (LCM of 36 and 60) Efficiency of tap A=5 units/ minute Efficiency of tap B=3 units/minute th of the tank= 30 units Required time= 5+3 = 3 4 minutes",
@@ -6679,9 +6686,10 @@
     "questionText": "One day, a hospital in P received information that an accident had occurred at gutter 2. An ambulance started from P at 60 km/hr and 10 minutes later it crossed gutter 1. It doubled its speed after that travelled to gutter 2 and returned back at that speed. If it takes a total of 2 minutes to take the patient into and out of the ambulance, what is the total time taken by the ambulance to shift the patient to the hospital?",
     "options": {
       "a": "65 minutes",
-      "b": "67 minutes (c) 68 minutes",
+      "b": "67 minutes",
       "d": "69 minutes",
-      "e": "None of these"
+      "e": "None of these",
+      "c": "68 minutes"
     },
     "correctOption": "a",
     "solutionText": "Time taken to reach B = + 55.5 = 18 + 1 hr 20 min = 19 hr 20 min It reaches B at 1 : 20 am",
@@ -6953,9 +6961,10 @@
     "questionText": "Train A running at the speed of 108 km/hr crosses a man, who running in the opposite direction at the speed of 12 km/hr in 7.2 sec. If speed of train A increased by 25% and it takes 48 seconds to cross another train B, which running at the speed of 90 km/hr in same direction. Find the length of train B?",
     "options": {
       "a": "280 meters",
-      "b": "360 meters (c) 180 meters",
+      "b": "360 meters",
       "d": "160 meters",
-      "e": "220 meters"
+      "e": "220 meters",
+      "c": "180 meters"
     },
     "correctOption": "d",
     "solutionText": "Let initial speed of P be ‘s’ km/hr Distance cover by P in two hours = 2s km Distance cover by Q in two hours = 150 × 3 = 300 𝑘𝑚/ℎ𝑟 When both meet P had travelled a distance of 216 km. Distance cover by P with 25% increased speed = (216 −2𝑠) 𝑘𝑚 And his increased speed = s( 4) = 5𝑠 4  km/hr If P cover 216 km, then Q cover total 384 km After two years = 384 − 300 = 84 𝑘𝑚 Time taken by Q to cover 84 km = 150 = 25 ℎ𝑜𝑢𝑟𝑠 ATQ – (216−2𝑠) 5𝑠 = (216 −2𝑠) = 14×5𝑠 24×4 216 = 10 𝑠+ 2𝑠 27s = 2160 S = 80 km/hr So, increased speed of P = 80 × 4=100 km/hr",
@@ -7579,7 +7588,8 @@
       "a": "8km/h",
       "b": "10km/h",
       "c": "15km/h",
-      "d": "12km/h (e) None of these"
+      "d": "12km/h",
+      "e": "None of these"
     },
     "correctOption": "d",
     "solutionText": "Speed of the boat in still water= 2 (speed of boat in downstream + speed of boat in upstream) = + 2(15 9) =  2 24 = 12 km/h",
@@ -10972,7 +10982,7 @@
       "prelims",
       "mains"
     ],
-    "passage": "Find the wrong number in following\nnumber series.\n(a) 12\n(b) 6\n(c) 2\n(d) 48\n(e) 240\n(a) 369\n(b) 225\n(c) 25\n(d) 59\n(e) 9",
+    "passage": "Find the wrong number in following\nnumber series.\n\n(a) 12\n\n(b) 6\n\n(c) 2\n\n(d) 48\n\n(e) 240\n\n(a) 369\n\n(b) 225\n\n(c) 25\n\n(d) 59\n\n(e) 9",
     "questionText": "540,   550,   575,   585,   608,   620,   645",
     "options": {
       "a": "608",
@@ -10997,7 +11007,7 @@
       "prelims",
       "mains"
     ],
-    "passage": "Find the wrong number in following\nnumber series.\n(a) 12\n(b) 6\n(c) 2\n(d) 48\n(e) 240\n(a) 369\n(b) 225\n(c) 25\n(d) 59\n(e) 9",
+    "passage": "Find the wrong number in following\nnumber series.\n\n(a) 12\n\n(b) 6\n\n(c) 2\n\n(d) 48\n\n(e) 240\n\n(a) 369\n\n(b) 225\n\n(c) 25\n\n(d) 59\n\n(e) 9",
     "questionText": "4,  11,   30,   67,   128,   221,   346",
     "options": {
       "a": "11",
@@ -11022,7 +11032,7 @@
       "prelims",
       "mains"
     ],
-    "passage": "Find the wrong number in following\nnumber series.\n(a) 12\n(b) 6\n(c) 2\n(d) 48\n(e) 240\n(a) 369\n(b) 225\n(c) 25\n(d) 59\n(e) 9",
+    "passage": "Find the wrong number in following\nnumber series.\n\n(a) 12\n\n(b) 6\n\n(c) 2\n\n(d) 48\n\n(e) 240\n\n(a) 369\n\n(b) 225\n\n(c) 25\n\n(d) 59\n\n(e) 9",
     "questionText": "189,   186,   181,   174,   165,   155,   141",
     "options": {
       "a": "189",
@@ -11198,7 +11208,7 @@
       "mains"
     ],
     "passage": "There are three series given in a\nquestion, you have to find value of x, y and z in each\nquestion and then establish relation among them.",
-    "questionText": "102,    107,    117,    134,    (x) 130,    115,    135,    110,    (y) (z),    80,    120,    300,    1050",
+    "questionText": "102,    107,    117,    134,\n\n(x) 130,    115,    135,    110,    (y) (z),    80,    120,    300,    1050",
     "options": {
       "a": "x > y = z",
       "b": "y < x = z",
@@ -12098,7 +12108,7 @@
       "mains"
     ],
     "passage": "In the given questions, two equations\n(I) & (II) are given. You have to solve both the equations\nand mark the answer accordingly.",
-    "questionText": "I. x2 + 9x + 20 = 0 II. 8y2 −15y + 7 = 0",
+    "questionText": "I. x2 + 9x + 20 = 0\n\nII. 8y2 −15y + 7 = 0",
     "options": {
       "a": "x < y",
       "b": "x > y",
@@ -12123,7 +12133,7 @@
       "mains"
     ],
     "passage": "In the given questions, two equations\n(I) & (II) are given. You have to solve both the equations\nand mark the answer accordingly.",
-    "questionText": "I. x2 −11x + 30 = 0 II. y2 + 12y + 36 = 0",
+    "questionText": "I. x2 −11x + 30 = 0\n\nII. y2 + 12y + 36 = 0",
     "options": {
       "a": "x < y",
       "b": "x > y",
@@ -12148,7 +12158,7 @@
       "mains"
     ],
     "passage": "In the given questions, two equations\n(I) & (II) are given. You have to solve both the equations\nand mark the answer accordingly.",
-    "questionText": "I. x2 + 13x + 40 = 0 II. y2 + 7y + 10 = 0",
+    "questionText": "I. x2 + 13x + 40 = 0\n\nII. y2 + 7y + 10 = 0",
     "options": {
       "a": "x < y",
       "b": "x > y",
@@ -12173,7 +12183,7 @@
       "mains"
     ],
     "passage": "In the given questions, two equations\n(I) & (II) are given. You have to solve both the equations\nand mark the answer accordingly.",
-    "questionText": "I. x2 −20x + 91 = 0 II. y2 + 16y + 63 = 0",
+    "questionText": "I. x2 −20x + 91 = 0\n\nII. y2 + 16y + 63 = 0",
     "options": {
       "a": "x < y",
       "b": "x > y",
@@ -12198,7 +12208,7 @@
       "mains"
     ],
     "passage": "In the given questions, two equations\n(I) & (II) are given. You have to solve both the equations\nand mark the answer accordingly.",
-    "questionText": "I. x2 −x −12 = 0 II. y2 + 5y + 6 = 0",
+    "questionText": "I. x2 −x −12 = 0\n\nII. y2 + 5y + 6 = 0",
     "options": {
       "a": "x < y",
       "b": "x > y",
@@ -12348,7 +12358,7 @@
       "mains"
     ],
     "passage": "Solve the following quadratic\nequation and mark the answer as per instructions.",
-    "questionText": "I. x2 −2x −143 = 0 II. y2 −169 = 0",
+    "questionText": "I. x2 −2x −143 = 0\n\nII. y2 −169 = 0",
     "options": {
       "a": "x > y",
       "b": "x < y",
@@ -12373,7 +12383,7 @@
       "mains"
     ],
     "passage": "Solve the following quadratic\nequation and mark the answer as per instructions.",
-    "questionText": "I. x2 −7x −18 = 0 II. y2 −19y + 90 = 0",
+    "questionText": "I. x2 −7x −18 = 0\n\nII. y2 −19y + 90 = 0",
     "options": {
       "a": "x ≤ y",
       "b": "x = y or no relation can be established",
@@ -12398,7 +12408,7 @@
       "mains"
     ],
     "passage": "Solve the following quadratic\nequation and mark the answer as per instructions.",
-    "questionText": "I. 2x2 + 5x + 3 = 0 II. y2 + 4y −12 = 0",
+    "questionText": "I. 2x2 + 5x + 3 = 0\n\nII. y2 + 4y −12 = 0",
     "options": {
       "a": "x ≤ y",
       "b": "x > y",
@@ -12423,7 +12433,7 @@
       "mains"
     ],
     "passage": "Solve the following quadratic\nequation and mark the answer as per instructions.",
-    "questionText": "I. 9x + 3y = 15 II. 4x + 5y = 14",
+    "questionText": "I. 9x + 3y = 15\n\nII. 4x + 5y = 14",
     "options": {
       "a": "x = y or no relation can be established",
       "b": "x > y",
@@ -12448,7 +12458,7 @@
       "mains"
     ],
     "passage": "Solve the following quadratic\nequation and mark the answer as per instructions.",
-    "questionText": "I. 2x2 −x −1 = 0 II. 3y2 −5y + 2 = 0",
+    "questionText": "I. 2x2 −x −1 = 0\n\nII. 3y2 −5y + 2 = 0",
     "options": {
       "a": "x ≤ y",
       "b": "x < y",
@@ -14053,7 +14063,8 @@
       "a": "12.5%",
       "b": "10%",
       "c": "0%",
-      "d": "None of these (e) 20%"
+      "d": "None of these",
+      "e": "20%"
     },
     "correctOption": "c",
     "solutionText": "Total toys sold on Thursday = 146 + 124 = 270 total toys sold on Friday = 140 + 130 = 270 Required ratio = 270−270 × 100 = 0%",
@@ -14097,7 +14108,7 @@
       "mains"
     ],
     "passage": "Following are the questions based on\ntwo statements and answer the following based on the\ngiven statements.",
-    "questionText": "C alone can complete the work in 15 days. In what time C and A together can complete the whole work. Statement I. A is 25% more efficient than B and B alone can complete the work in 20 days Statement II. Difference between the time taken by A alone and B alone to complete the work is 22 2 days and time taken by C alone to finish the work is 10% more than the time taken by A and B together to complete the work.",
+    "questionText": "C alone can complete the work in 15 days. In what time C and A together can complete the whole work. Statement\n\nI. A is 25% more efficient than B and B alone can complete the work in 20 days Statement\n\nII. Difference between the time taken by A alone and B alone to complete the work is 22 2 days and time taken by C alone to finish the work is 10% more than the time taken by A and B together to complete the work.",
     "options": {
       "a": "Statement I alone is sufficient to answer the question while statement II alone is not sufficient to answer the question",
       "b": "Statement II alone is sufficient to answer the question while statement I alone is not sufficient to answer the question",
@@ -14122,7 +14133,7 @@
       "mains"
     ],
     "passage": "Following are the questions based on\ntwo statements and answer the following based on the\ngiven statements.",
-    "questionText": "Side of square is ‘a’ cm. Find the value of ‘a’ ? Statement I. Square is inscribed in a circle C1. Radius of circle C1 is 21cm. Statement II. Circle C2 is inscribed in the square. Radius of circle C2 is 28cm.",
+    "questionText": "Side of square is ‘a’ cm. Find the value of ‘a’ ? Statement\n\nI. Square is inscribed in a circle C1. Radius of circle C1 is 21cm. Statement\n\nII. Circle C2 is inscribed in the square. Radius of circle C2 is 28cm.",
     "options": {
       "a": "Statement I alone is sufficient to answer the question while statement II alone is not sufficient to answer the question",
       "b": "Statement II alone is sufficient to answer the question while statement I alone is not sufficient to answer the question",
@@ -14147,7 +14158,7 @@
       "mains"
     ],
     "passage": "Following are the questions based on\ntwo statements and answer the following based on the\ngiven statements.",
-    "questionText": "A boat covers 35 km in upstream and 35km in downstream in total 4 hours. In what time it will cover 50km upstream? Statement I. Sum of upstream and downstream speed of the boat is 36km/h Statement II. Speed of water current is 20% of speed of boat in still water.",
+    "questionText": "A boat covers 35 km in upstream and 35km in downstream in total 4 hours. In what time it will cover 50km upstream? Statement\n\nI. Sum of upstream and downstream speed of the boat is 36km/h Statement\n\nII. Speed of water current is 20% of speed of boat in still water.",
     "options": {
       "a": "Statement I alone is sufficient to answer the question while statement II alone is not sufficient to answer the question @cetexamgroup",
       "b": "Statement II alone is sufficient to answer the question while statement I alone is not sufficient to answer the question",
@@ -14172,7 +14183,7 @@
       "mains"
     ],
     "passage": "Following are the questions based on\ntwo statements and answer the following based on the\ngiven statements.",
-    "questionText": "A train crosses a platform of twice of its length in 48seconds. Find the speed of train? Statement I. Train crosses a man walking at a speed of 4m/s in the same direction as the direction of the train in 20 seconds Statement II. After covering half of the platform, due to fault in the engine it covers remaining distance at a speed of which is 60% of its initial speed.",
+    "questionText": "A train crosses a platform of twice of its length in 48seconds. Find the speed of train? Statement\n\nI. Train crosses a man walking at a speed of 4m/s in the same direction as the direction of the train in 20 seconds Statement\n\nII. After covering half of the platform, due to fault in the engine it covers remaining distance at a speed of which is 60% of its initial speed.",
     "options": {
       "a": "Statement I alone is sufficient to answer the question while statement II alone is not sufficient to answer the question",
       "b": "Statement II alone is sufficient to answer the question while statement I alone is not sufficient to answer the question",
@@ -14197,7 +14208,7 @@
       "mains"
     ],
     "passage": "Following are the questions based on\ntwo statements and answer the following based on the\ngiven statements.",
-    "questionText": "Let x be total number of balls in a bag. Balls are of three different colors i.e. black, white and red. Calculate (x-1). Statement I. Probability of getting a black ball is ⅙, a red ball is ⅙ & a white ball is ⅔. Statement II. If one white ball is lost, probability of not getting a white ball is 8/23 and initial number of white balls in bag is less than 27.",
+    "questionText": "Let x be total number of balls in a bag. Balls are of three different colors i.e. black, white and red. Calculate (x-1). Statement\n\nI. Probability of getting a black ball is ⅙, a red ball is ⅙ & a white ball is ⅔. Statement\n\nII. If one white ball is lost, probability of not getting a white ball is 8/23 and initial number of white balls in bag is less than 27.",
     "options": {
       "a": "Statement I alone is sufficient to answer the question but statement II alone is not sufficient to answer the question.",
       "b": "Statement II alone is sufficient to answer the question but statement I alone is not sufficient to answer the question.",
@@ -14222,7 +14233,7 @@
       "mains"
     ],
     "passage": null,
-    "questionText": "What is the capacity of the cylindrical tank? I. Radius of the base is half of its height. II. Area of the base is 616 sq m. III. Height of the cylinder is 28 m.",
+    "questionText": "What is the capacity of the cylindrical tank?\n\nI. Radius of the base is half of its height.\n\nII. Area of the base is 616 sq m.\n\nIII. Height of the cylinder is 28 m.",
     "options": {
       "a": "I and II",
       "b": "II and III",
@@ -14247,7 +14258,7 @@
       "mains"
     ],
     "passage": null,
-    "questionText": "What is the two-digit number? I. Number obtained by interchanging the digit is more than the original number by 9. II. Sum of the digits is 7. III. Difference between the digits is 1.",
+    "questionText": "What is the two-digit number?\n\nI. Number obtained by interchanging the digit is more than the original number by 9.\n\nII. Sum of the digits is 7.\n\nIII. Difference between the digits is 1.",
     "options": {
       "a": "if the question can be answered with the help of Statement I alone",
       "b": "if the question can be answered with the help of Statement II alone",
@@ -14271,8 +14282,8 @@
       "prelims",
       "mains"
     ],
-    "passage": "Each question below is followed by\ntwo Statements [I] and [II]. You have to determine whether\nthe data given in the statements are sufficient for\nanswering the question. You should use the data and your\nknowledge of Mathematics to choose between the possible\nanswers.\nGive answer\n(a)  if the Statement [I] alone is sufficient to answer the\nquestion but the Statement [II] alone is not sufficient\n(b)  if the Statement [II] alone is sufficient to answer the\nquestion but the Statement [I] alone is not sufficient\n(c)  if both Statement [I] and [II] together are needed to\nanswer the question\n(d)  if either the Statement [I] alone or Statement [II] alone\nis sufficient to answer the question\n(e)  if you cannot get the answer from the Statements [I]\nand [II] together but need even more data",
-    "questionText": "What is the weight of Raju? I. There are four person Raju, Ramesh, Rajan, Rajguru. Average of weight of these four is 51.25. Average weight of Rajan and Rajguru is 47.5. Average weight of Ramesh & Rajguru is 57.5. II. In a class of 50 students having 30 kg as average weight If one students of weight 30 kg is replaced by Rajan then the average increases by 0.4. Directions (30-34): The following questions are accompanied by two statements (I) and (II). You have to determine which statements(s) is/are sufficient/ necessary to answer the questions.",
+    "passage": "Each question below is followed by\ntwo Statements [I] and [II]. You have to determine whether\nthe data given in the statements are sufficient for\nanswering the question. You should use the data and your\nknowledge of Mathematics to choose between the possible\nanswers.\nGive answer\n\n(a) if the Statement [I] alone is sufficient to answer the\nquestion but the Statement [II] alone is not sufficient\n\n(b) if the Statement [II] alone is sufficient to answer the\nquestion but the Statement [I] alone is not sufficient\n\n(c) if both Statement [I] and [II] together are needed to\nanswer the question\n\n(d) if either the Statement [I] alone or Statement [II] alone\nis sufficient to answer the question\n\n(e) if you cannot get the answer from the Statements [I]\nand [II] together but need even more data",
+    "questionText": "What is the weight of Raju?\n\nI. There are four person Raju, Ramesh, Rajan, Rajguru. Average of weight of these four is 51.25. Average weight of Rajan and Rajguru is 47.5. Average weight of Ramesh & Rajguru is 57.5.\n\nII. In a class of 50 students having 30 kg as average weight If one students of weight 30 kg is replaced by Rajan then the average increases by 0.4. Directions (30-34): The following questions are accompanied by two statements (I) and (II). You have to determine which statements(s) is/are sufficient/ necessary to answer the questions.",
     "options": {
       "a": "Statement (I) alone is sufficient to answer the question but statement (II) alone is not sufficient to answer the question.",
       "b": "Statement (II) alone is sufficient to answer the question but statement (I) alone is not sufficient to answer the question.",
@@ -14370,10 +14381,11 @@
     "passage": "What approximate value should come in\nthe place of question mark in following question.",
     "questionText": "312.07 ? + (12.99)2 = 20.01 % of 909.99",
     "options": {
-      "a": "None of these (b) 48",
+      "a": "None of these",
       "c": "6",
       "d": "12",
-      "e": "24s"
+      "e": "24s",
+      "b": "48"
     },
     "correctOption": "e",
     "solutionText": "?   + 169 = 100 × 910 ?  = 182 − 169 ?  = 13 ? = 24",
@@ -14634,9 +14646,10 @@
     "questionText": "1898.88 ÷ 189.921 + 9.99 + (? )2 = 83.89",
     "options": {
       "a": "3",
-      "b": "4 (c) 5",
+      "b": "4",
       "d": "8",
-      "e": "7"
+      "e": "7",
+      "c": "5"
     },
     "correctOption": "d",
     "solutionText": "≈1900 ÷ 190 + 10 +?2 = 84 Or, ?2 = 84 −10 −10 𝑜𝑟, ?= 8 40 × 8 −250 =?−63 × 8",
@@ -14681,9 +14694,10 @@
     "questionText": "57% of 394-2.5% of 996=?",
     "options": {
       "a": "215",
-      "b": "175 (c) 200",
+      "b": "175",
       "d": "180",
-      "e": "227"
+      "e": "227",
+      "c": "200"
     },
     "correctOption": "a",
     "solutionText": "? = 394×57 − 996×2.5 = 400×57 − 1000×2.5 = 228−25 = 203 ∴ Required answer = 200",
@@ -14704,9 +14718,10 @@
     "questionText": "96.996 × 9.869 + 0.96 =?",
     "options": {
       "a": "860",
-      "b": "870 (c) 1080",
+      "b": "870",
       "d": "965",
-      "e": "1100"
+      "e": "1100",
+      "c": "1080"
     },
     "correctOption": "d",
     "solutionText": "? = 97× 10 + 1 = 971 ∴ Required answer = 965",
@@ -14775,9 +14790,10 @@
     "questionText": "(638 + 9709 −216) ÷ 26 =?",
     "options": {
       "a": "275",
-      "b": "345 (c) 440",
+      "b": "345",
       "d": "300",
-      "e": "390"
+      "e": "390",
+      "c": "440"
     },
     "correctOption": "e",
     "solutionText": "? = 638+9709−216 = 390",
