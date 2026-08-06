@@ -103,6 +103,40 @@ export default function TestRunner() {
 
   const options = Object.entries(currentQuestion.options);
 
+  // For Spotting Errors: options like (A),(B),(C),(D) mean "Error is in part X"
+  const isSpottingErrorsStyle =
+    currentQuestion.chapter === "Spotting Errors" ||
+    currentQuestion.chapter === "Error Detection";
+  const partRefOptions = /^\(?[ABCD]\)?$/.test(
+    (options[0]?.[1] ?? "").trim()
+  );
+
+  function formatOptionText(optText: string): string {
+    if (isSpottingErrorsStyle && partRefOptions) {
+      const clean = optText.replace(/[()]/g, "").trim();
+      if (["A", "B", "C", "D"].includes(clean))
+        return `Error is in Part ${clean}`;
+    }
+    return optText;
+  }
+
+  // Render sentence with (A)/ markers as styled parts
+  function formatSpottingErrorQuestion(text: string): string {
+    if (!isSpottingErrorsStyle) return text;
+    // Replace (A)/ (B)/ (C)/ (D) segment markers with line-break + badge
+    return text
+      .replace(
+        /\(([ABCDE])\)\s*\/\s*/g,
+        (_m: string, letter: string) =>
+          `<span class="se-part-badge">${letter}</span>`
+      )
+      .replace(
+        /\(([ABCDE])\)\.?\s*$/g,
+        (_m: string, letter: string) =>
+          `<span class="se-part-badge">${letter}</span>`
+      );
+  }
+
   return (
     <div className="runner">
       <div className="runner-header">
@@ -142,7 +176,18 @@ export default function TestRunner() {
           )}
           <div className="question-panel">
             <div className="question-text">
-              <span className="q-number">Q{index + 1}.</span> <FormattedText text={currentQuestion.questionText} />
+              <span className="q-number">Q{index + 1}.</span>{" "}
+              {isSpottingErrorsStyle ? (
+                <span
+                  dangerouslySetInnerHTML={{
+                    __html: formatSpottingErrorQuestion(
+                      (currentQuestion.questionText ?? "").replace(/\n/g, "<br/>")
+                    ),
+                  }}
+                />
+              ) : (
+                <FormattedText text={currentQuestion.questionText} />
+              )}
             </div>
             {currentQuestion.hasImage && currentQuestion.imagePath && (
               <img className="question-image" src={currentQuestion.imagePath} alt="question figure" />
@@ -158,8 +203,8 @@ export default function TestRunner() {
                       checked={isSelected}
                       onChange={() => setAnswers((prev) => ({ ...prev, [currentQuestion.id]: letter }))}
                     />
-                    <span className="option-letter">{letter}</span>
-                    <span className="option-text"><FormattedText text={text} /></span>
+                    <span className="option-letter">{letter.toUpperCase()}</span>
+                    <span className="option-text"><FormattedText text={formatOptionText(text)} /></span>
                   </label>
                 );
               })}

@@ -21,7 +21,11 @@ import {
   localGetProgress,
 } from "./localBackend";
 
-const IS_STATIC_BUILD = import.meta.env.PROD || window.location.hostname.includes("github.io");
+const IS_STATIC_BUILD =
+  import.meta.env.PROD ||
+  window.location.hostname.includes("github.io") ||
+  window.location.hostname === "localhost" ||
+  window.location.hostname === "127.0.0.1";
 
 async function req<T>(path: string, options?: RequestInit): Promise<T> {
   const res = await fetch(path, {

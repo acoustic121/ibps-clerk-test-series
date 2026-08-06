@@ -39,7 +39,7 @@ let cachedSyllabus: Syllabus | null = null;
 async function getRawData() {
   if (!cachedQuestions || !cachedSyllabus) {
     const baseUrl = import.meta.env.BASE_URL || "./";
-    const cacheBuster = `?v=5611_${Date.now()}`;
+    const cacheBuster = `?v=6630_${Date.now()}`;
     const [qRes, sRes] = await Promise.all([
       fetch(`${baseUrl}data/all_questions.json${cacheBuster}`),
       fetch(`${baseUrl}data/syllabus.json${cacheBuster}`),

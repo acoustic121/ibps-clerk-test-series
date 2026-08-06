@@ -106,7 +106,26 @@ export default function Results() {
                 <span className="marks-note">{d.marksAwarded >= 0 ? `+${d.marksAwarded}` : d.marksAwarded}</span>
               </div>
               {d.passage && <p className="passage-panel small"><FormattedText text={d.passage} /></p>}
-              <p className="question-text"><FormattedText text={d.questionText} /></p>
+              <p className="question-text">
+                {(d.chapter === "Spotting Errors" || d.chapter === "Error Detection") ? (
+                  <span
+                    dangerouslySetInnerHTML={{
+                      __html: (d.questionText ?? "")
+                        .replace(/\n/g, "<br/>")
+                        .replace(
+                          /\(([ABCDE])\)\s*\/\s*/g,
+                          (_m: string, l: string) => `<span class="se-part-badge">${l}</span>`
+                        )
+                        .replace(
+                          /\(([ABCDE])\)\.?\s*$/g,
+                          (_m: string, l: string) => `<span class="se-part-badge">${l}</span>`
+                        ),
+                    }}
+                  />
+                ) : (
+                  <FormattedText text={d.questionText} />
+                )}
+              </p>
               {d.hasImage && <p className="muted">(figure-based question)</p>}
               <div className="options-list">
                 {Object.entries(d.options).map(([letter, text]) => {
@@ -115,8 +134,18 @@ export default function Results() {
                   const cls = isCorrect ? "correct" : isYours ? "wrong" : "";
                   return (
                     <div key={letter} className={`option-item static ${cls}`}>
-                      <span className="option-letter">{letter}</span>
-                      <span className="option-text"><FormattedText text={text} /></span>
+                      <span className="option-letter">{letter.toUpperCase()}</span>
+                      <span className="option-text">
+                        <FormattedText text={
+                          (d.chapter === "Spotting Errors" || d.chapter === "Error Detection") &&
+                          /^\(?[ABCD]\)?$/.test((Object.values(d.options)[0] ?? "").trim())
+                            ? (() => {
+                                const clean = text.replace(/[()]/g, "").trim();
+                                return ["A","B","C","D"].includes(clean) ? `Error is in Part ${clean}` : text;
+                              })()
+                            : text
+                        } />
+                      </span>
                       {isCorrect && <span className="tag">Correct answer</span>}
                       {isYours && !isCorrect && <span className="tag">Your answer</span>}
                     </div>
