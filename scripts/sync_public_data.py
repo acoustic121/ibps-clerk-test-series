@@ -3,8 +3,10 @@ import glob
 import os
 import shutil
 
-SERVER_DATA = "/Users/aman.singh/Documents/banking/test-series-app/server/data"
-CLIENT_PUBLIC_DATA = "/Users/aman.singh/Documents/banking/test-series-app/client/public/data"
+# Paths relative to repo root (works locally and on CI runners)
+REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+SERVER_DATA = os.path.join(REPO_ROOT, "server", "data")
+CLIENT_PUBLIC_DATA = os.path.join(REPO_ROOT, "client", "public", "data")
 
 def main():
     os.makedirs(CLIENT_PUBLIC_DATA, exist_ok=True)
