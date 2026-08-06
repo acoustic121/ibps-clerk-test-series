@@ -106,6 +106,25 @@ export default function Results() {
                 <span className="marks-note">{d.marksAwarded >= 0 ? `+${d.marksAwarded}` : d.marksAwarded}</span>
               </div>
               {d.passage && <p className="passage-panel small"><FormattedText text={d.passage} /></p>}
+              {(() => {
+                const optVals = Object.values(d.options);
+                const hasOnlyI = /^only\s+i{1,3}$/i.test((optVals[0] ?? "").trim()) || (optVals[0] ?? "").toLowerCase().includes("only i");
+                if (!hasOnlyI) return null;
+                const txt = d.questionText ?? "";
+                let dir = null;
+                if (/^<b>[A-Z][a-z\s]+<\/b>\s*\n/.test(txt) || /^[A-Z][a-z]+\s*\n\s*\nI\./.test(txt)) {
+                  dir = "In which of the following sentences is the highlighted word/phrase used correctly?";
+                } else if (/\n\s*(I|II|III)[\.\)]\s/.test(txt) && /<b>/.test(txt)) {
+                  dir = "Which of the following options can replace the highlighted word/phrase without changing the meaning of the sentence?";
+                } else if (/\n\s*I+[\.\)]\s/.test(txt)) {
+                  dir = "Which of the following sentences is/are grammatically correct and contextually meaningful?";
+                }
+                return dir ? (
+                  <div className="question-direction-box">
+                    <strong>Directions:</strong> {dir}
+                  </div>
+                ) : null;
+              })()}
               <p className="question-text">
                 {(d.chapter === "Spotting Errors" || d.chapter === "Error Detection") ? (
                   <span

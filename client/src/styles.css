@@ -482,6 +482,16 @@ button {
   box-shadow: var(--shadow);
 }
 
+.question-direction-box {
+  background: rgba(79, 70, 229, 0.08);
+  border-left: 4px solid var(--primary);
+  border-radius: 4px 8px 8px 4px;
+  padding: 10px 14px;
+  margin-bottom: 14px;
+  font-size: 13px;
+  color: #374151;
+}
+
 .question-text {
   font-size: 15px;
   line-height: 1.6;

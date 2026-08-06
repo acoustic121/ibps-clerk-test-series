@@ -137,6 +137,34 @@ export default function TestRunner() {
       );
   }
 
+  // Detect question direction for word-usage / sentence-correction patterns
+  // These questions have "Only I", "Only II", "All are correct" style options
+  // but no instruction text telling students what to do
+  const hasOnlyIOptions = /^only\s+i{1,3}$/i.test(
+    (options[0]?.[1] ?? "").trim()
+  ) || (options[0]?.[1] ?? "").toLowerCase().includes("only i");
+
+  function getQuestionDirection(): string | null {
+    if (!hasOnlyIOptions) return null;
+    const text = currentQuestion.questionText ?? "";
+    // Bold word at start + Roman numeral sentences → Word Usage
+    // Pattern: starts with <b>Word</b> then \n\nI. sentence
+    if (/^<b>[A-Z][a-z\s]+<\/b>\s*\n/.test(text) || /^[A-Z][a-z]+\s*\n\s*\nI\./.test(text)) {
+      return "In which of the following sentences is the highlighted word/phrase used correctly?";
+    }
+    // Sentence with bold phrase + I./II./III. replacements → Phrase Replacement
+    if (/\n\s*(I|II|III)[\.\)]\s/.test(text) && /<b>/.test(text)) {
+      return "Which of the following options can replace the highlighted word/phrase without changing the meaning of the sentence?";
+    }
+    // Generic: multiple sentences I/II/III, options are Only I/II/III
+    if (/\n\s*I+[\.\)]\s/.test(text)) {
+      return "Which of the following sentences is/are grammatically correct and contextually meaningful?";
+    }
+    return null;
+  }
+
+  const questionDirection = getQuestionDirection();
+
   return (
     <div className="runner">
       <div className="runner-header">
@@ -175,6 +203,11 @@ export default function TestRunner() {
             </div>
           )}
           <div className="question-panel">
+            {questionDirection && (
+              <div className="question-direction-box">
+                <strong>Directions:</strong> {questionDirection}
+              </div>
+            )}
             <div className="question-text">
               <span className="q-number">Q{index + 1}.</span>{" "}
               {isSpottingErrorsStyle ? (
