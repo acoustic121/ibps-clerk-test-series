@@ -145,7 +145,7 @@ export default function TestRunner() {
   ) || (options[0]?.[1] ?? "").toLowerCase().includes("only i");
 
   function getQuestionDirection(): string | null {
-    if (!hasOnlyIOptions) return null;
+    if (!hasOnlyIOptions || !currentQuestion) return null;
     const text = currentQuestion.questionText ?? "";
     // Bold word at start + Roman numeral sentences → Word Usage
     // Pattern: starts with <b>Word</b> then \n\nI. sentence
